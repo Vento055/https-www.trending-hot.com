@@ -1,0 +1,197 @@
+{
+  "category": "health",
+  "fetch_date": "2026-10-12T18:38:44.126600+00:00",
+  "total_keywords": 5,
+  "source": "google_trends",
+  "data": [
+    {
+      "keyword": "nano hydroxyapatite",
+      "category": "health",
+      "google_category_id": 45,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [],
+      "avg_interest": 0,
+      "peak_interest": 0,
+      "trend_direction": "error",
+      "data_points": 0,
+      "error": "The request failed: Google returned a response with code 429",
+      "related_queries": {
+        "rising": [],
+        "top": []
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-10-12T18:38:23.890973+00:00"
+    },
+    {
+      "keyword": "beet gummies",
+      "category": "health",
+      "google_category_id": 45,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [
+        0,
+        0,
+        0,
+        56,
+        24,
+        42,
+        100,
+        0,
+        0,
+        0,
+        35,
+        32,
+        27,
+        33,
+        35,
+        27,
+        25,
+        29,
+        29,
+        26,
+        25,
+        27,
+        27,
+        30,
+        32,
+        29,
+        29,
+        27,
+        30,
+        24
+      ],
+      "avg_interest": 21.6,
+      "peak_interest": 100,
+      "trend_direction": "rising",
+      "data_points": 93,
+      "related_queries": {
+        "rising": [
+          {
+            "query": "beet gummies walmart",
+            "value": 100
+          },
+          {
+            "query": "beet gummies benefits",
+            "value": 90
+          },
+          {
+            "query": "goli beet gummies",
+            "value": 50
+          }
+        ],
+        "top": [
+          {
+            "query": "beet gummies benefits",
+            "value": 100
+          },
+          {
+            "query": "goli beet gummies",
+            "value": 60
+          },
+          {
+            "query": "beet gummies for blood pressure",
+            "value": 47
+          },
+          {
+            "query": "super beet gummies",
+            "value": 46
+          },
+          {
+            "query": "beet gummies walmart",
+            "value": 34
+          }
+        ]
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-10-12T18:38:29.583394+00:00"
+    },
+    {
+      "keyword": "toe spacers",
+      "category": "health",
+      "google_category_id": 45,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [
+        37,
+        25,
+        28,
+        26,
+        25,
+        16,
+        61,
+        100,
+        75,
+        45,
+        35,
+        21,
+        19,
+        31,
+        31,
+        22,
+        22,
+        17,
+        20,
+        22,
+        25,
+        25,
+        25,
+        24,
+        25,
+        23,
+        22,
+        20,
+        22,
+        18
+      ],
+      "avg_interest": 28.4,
+      "peak_interest": 100,
+      "trend_direction": "stable",
+      "data_points": 93,
+      "related_queries": {
+        "rising": [],
+        "top": []
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-10-12T18:38:34.300205+00:00"
+    },
+    {
+      "keyword": "magnesium spray",
+      "category": "health",
+      "google_category_id": 45,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [],
+      "avg_interest": 0,
+      "peak_interest": 0,
+      "trend_direction": "error",
+      "data_points": 0,
+      "error": "The request failed: Google returned a response with code 429",
+      "related_queries": {
+        "rising": [],
+        "top": []
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-10-12T18:38:39.325060+00:00"
+    },
+    {
+      "keyword": "creatine gummies",
+      "category": "health",
+      "google_category_id": 45,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [],
+      "avg_interest": 0,
+      "peak_interest": 0,
+      "trend_direction": "error",
+      "data_points": 0,
+      "error": "The request failed: Google returned a response with code 429",
+      "related_queries": {
+        "rising": [],
+        "top": []
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-10-12T18:38:44.125432+00:00"
+    }
+  ]
+}
