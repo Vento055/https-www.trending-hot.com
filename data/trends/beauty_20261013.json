@@ -1,0 +1,385 @@
+{
+  "category": "beauty",
+  "fetch_date": "2026-10-13T16:44:11.646904+00:00",
+  "total_keywords": 5,
+  "source": "google_trends",
+  "data": [
+    {
+      "keyword": "glass skin",
+      "category": "beauty",
+      "google_category_id": 44,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [
+        21,
+        28,
+        25,
+        21,
+        22,
+        56,
+        100,
+        77,
+        43,
+        30,
+        25,
+        28,
+        38,
+        37,
+        34,
+        17,
+        16,
+        14,
+        15,
+        16,
+        16,
+        15,
+        15,
+        16,
+        30,
+        23,
+        17,
+        16,
+        14,
+        12
+      ],
+      "avg_interest": 25.0,
+      "peak_interest": 100,
+      "trend_direction": "rising",
+      "data_points": 93,
+      "related_queries": {
+        "rising": [
+          {
+            "query": "korean beauty glass skin trend",
+            "value": 3900
+          },
+          {
+            "query": "cathy doll glass skin cream",
+            "value": 1350
+          },
+          {
+            "query": "glow and plump glass skin drops",
+            "value": 250
+          },
+          {
+            "query": "mamaearth rice face wash with rice water & niacinamide for glass skin",
+            "value": 130
+          },
+          {
+            "query": "i was born with glass bones and paper skin",
+            "value": 110
+          },
+          {
+            "query": "glass bones and paper skin",
+            "value": 110
+          },
+          {
+            "query": "korean glass skin facial",
+            "value": 80
+          },
+          {
+            "query": "glass skin look",
+            "value": 70
+          },
+          {
+            "query": "loreal glass skin mask",
+            "value": 70
+          },
+          {
+            "query": "how to get glass skin",
+            "value": 60
+          }
+        ],
+        "top": [
+          {
+            "query": "glass skin set",
+            "value": 100
+          },
+          {
+            "query": "glass skin cream",
+            "value": 81
+          },
+          {
+            "query": "glass skin serum",
+            "value": 72
+          },
+          {
+            "query": "korean glass skin",
+            "value": 70
+          },
+          {
+            "query": "glass skin mask",
+            "value": 67
+          },
+          {
+            "query": "glass skin care",
+            "value": 58
+          },
+          {
+            "query": "what is glass skin",
+            "value": 48
+          },
+          {
+            "query": "glass skin loreal",
+            "value": 46
+          },
+          {
+            "query": "glass skin facial",
+            "value": 41
+          },
+          {
+            "query": "glass skin products",
+            "value": 34
+          }
+        ]
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-10-13T16:43:50.210755+00:00"
+    },
+    {
+      "keyword": "nano hydroxyapatite toothpaste",
+      "category": "beauty",
+      "google_category_id": 44,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [
+        41,
+        51,
+        42,
+        33,
+        31,
+        64,
+        100,
+        81,
+        55,
+        36,
+        36,
+        45,
+        65,
+        55,
+        49,
+        31,
+        27,
+        27,
+        24,
+        25,
+        24,
+        26,
+        30,
+        31,
+        24,
+        24,
+        24,
+        29,
+        28,
+        22
+      ],
+      "avg_interest": 41.3,
+      "peak_interest": 100,
+      "trend_direction": "stable",
+      "data_points": 93,
+      "related_queries": {
+        "rising": [
+          {
+            "query": "holydeer nano hydroxyapatite toothpaste",
+            "value": 750
+          },
+          {
+            "query": "does nano hydroxyapatite work",
+            "value": 40
+          }
+        ],
+        "top": [
+          {
+            "query": "boka",
+            "value": 100
+          },
+          {
+            "query": "boka toothpaste",
+            "value": 100
+          },
+          {
+            "query": "best hydroxyapatite toothpaste",
+            "value": 53
+          },
+          {
+            "query": "best nano hydroxyapatite toothpaste",
+            "value": 53
+          },
+          {
+            "query": "best toothpaste",
+            "value": 52
+          },
+          {
+            "query": "10 nano hydroxyapatite toothpaste",
+            "value": 33
+          },
+          {
+            "query": "what is nano hydroxyapatite",
+            "value": 33
+          },
+          {
+            "query": "davids hydroxyapatite toothpaste",
+            "value": 28
+          },
+          {
+            "query": "davids nano hydroxyapatite toothpaste",
+            "value": 27
+          },
+          {
+            "query": "davids toothpaste",
+            "value": 27
+          }
+        ]
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-10-13T16:43:55.862940+00:00"
+    },
+    {
+      "keyword": "beet gummies",
+      "category": "beauty",
+      "google_category_id": 44,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [
+        0,
+        50,
+        70,
+        50,
+        81,
+        0,
+        0,
+        0,
+        0,
+        94,
+        0,
+        82,
+        100,
+        0,
+        88,
+        58,
+        63,
+        68,
+        54,
+        58,
+        58,
+        57,
+        64,
+        67,
+        59,
+        58,
+        58,
+        64,
+        71,
+        54
+      ],
+      "avg_interest": 45.5,
+      "peak_interest": 100,
+      "trend_direction": "rising",
+      "data_points": 93,
+      "related_queries": {
+        "rising": [],
+        "top": []
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-10-13T16:44:01.241574+00:00"
+    },
+    {
+      "keyword": "toe spacers",
+      "category": "beauty",
+      "google_category_id": 44,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [
+        38,
+        31,
+        23,
+        32,
+        22,
+        57,
+        100,
+        80,
+        45,
+        37,
+        26,
+        22,
+        33,
+        34,
+        38,
+        25,
+        20,
+        23,
+        26,
+        29,
+        29,
+        28,
+        27,
+        28,
+        26,
+        25,
+        23,
+        25,
+        25,
+        21
+      ],
+      "avg_interest": 32.0,
+      "peak_interest": 100,
+      "trend_direction": "stable",
+      "data_points": 93,
+      "related_queries": {
+        "rising": [],
+        "top": []
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-10-13T16:44:06.106904+00:00"
+    },
+    {
+      "keyword": "scalp serum",
+      "category": "beauty",
+      "google_category_id": 44,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [
+        36,
+        44,
+        33,
+        31,
+        33,
+        52,
+        100,
+        84,
+        53,
+        42,
+        39,
+        40,
+        48,
+        53,
+        51,
+        27,
+        26,
+        27,
+        24,
+        28,
+        28,
+        26,
+        27,
+        26,
+        24,
+        24,
+        27,
+        28,
+        26,
+        22
+      ],
+      "avg_interest": 37.8,
+      "peak_interest": 100,
+      "trend_direction": "stable",
+      "data_points": 93,
+      "related_queries": {
+        "rising": [],
+        "top": []
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-10-13T16:44:11.646079+00:00"
+    }
+  ]
+}

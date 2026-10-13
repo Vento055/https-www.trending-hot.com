@@ -1,0 +1,108 @@
+{
+  "category": "ai",
+  "fetch_date": "2026-10-13T16:44:22.863740+00:00",
+  "total_keywords": 5,
+  "source": "google_trends_rss",
+  "data": [
+    {
+      "keyword": "gemini 4 argon",
+      "category": "ai",
+      "google_category_id": 5,
+      "geo": "US",
+      "timeframe": "today 3-m",
+      "interest_values": [
+        500
+      ],
+      "avg_interest": 500,
+      "peak_interest": 500,
+      "trend_direction": "rising",
+      "data_points": 1,
+      "related_queries": {
+        "rising": [],
+        "top": []
+      },
+      "source": "google_trends_rss",
+      "fetched_at": "2026-10-13T16:44:22.863536+00:00"
+    },
+    {
+      "keyword": "ai coding agents",
+      "category": "ai",
+      "google_category_id": 5,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [
+        50
+      ],
+      "avg_interest": 50,
+      "peak_interest": 50,
+      "trend_direction": "stable",
+      "data_points": 1,
+      "related_queries": {
+        "rising": [],
+        "top": []
+      },
+      "source": "google_trends_rss",
+      "fetched_at": "2026-10-13T16:44:22.863564+00:00"
+    },
+    {
+      "keyword": "ai video generation",
+      "category": "ai",
+      "google_category_id": 5,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [
+        50
+      ],
+      "avg_interest": 50,
+      "peak_interest": 50,
+      "trend_direction": "stable",
+      "data_points": 1,
+      "related_queries": {
+        "rising": [],
+        "top": []
+      },
+      "source": "google_trends_rss",
+      "fetched_at": "2026-10-13T16:44:22.863571+00:00"
+    },
+    {
+      "keyword": "ai voice cloning",
+      "category": "ai",
+      "google_category_id": 5,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [
+        50
+      ],
+      "avg_interest": 50,
+      "peak_interest": 50,
+      "trend_direction": "stable",
+      "data_points": 1,
+      "related_queries": {
+        "rising": [],
+        "top": []
+      },
+      "source": "google_trends_rss",
+      "fetched_at": "2026-10-13T16:44:22.863576+00:00"
+    },
+    {
+      "keyword": "eu ai act",
+      "category": "ai",
+      "google_category_id": 5,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [
+        50
+      ],
+      "avg_interest": 50,
+      "peak_interest": 50,
+      "trend_direction": "stable",
+      "data_points": 1,
+      "related_queries": {
+        "rising": [],
+        "top": []
+      },
+      "source": "google_trends_rss",
+      "fetched_at": "2026-10-13T16:44:22.863581+00:00"
+    }
+  ]
+}
