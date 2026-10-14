@@ -1,0 +1,499 @@
+{
+  "category": "health",
+  "fetch_date": "2026-10-14T14:22:25.055512+00:00",
+  "total_keywords": 5,
+  "source": "google_trends",
+  "data": [
+    {
+      "keyword": "nano hydroxyapatite",
+      "category": "health",
+      "google_category_id": 45,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [
+        48,
+        41,
+        36,
+        33,
+        70,
+        81,
+        100,
+        50,
+        41,
+        37,
+        50,
+        62,
+        61,
+        49,
+        48,
+        32,
+        32,
+        28,
+        29,
+        26,
+        29,
+        35,
+        34,
+        28,
+        26,
+        28,
+        32,
+        33,
+        30,
+        27
+      ],
+      "avg_interest": 43.3,
+      "peak_interest": 100,
+      "trend_direction": "stable",
+      "data_points": 93,
+      "related_queries": {
+        "rising": [],
+        "top": []
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-10-14T14:22:05.043559+00:00"
+    },
+    {
+      "keyword": "beet gummies",
+      "category": "health",
+      "google_category_id": 45,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [
+        0,
+        70,
+        47,
+        54,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        70,
+        74,
+        65,
+        74,
+        78,
+        52,
+        57,
+        47,
+        48,
+        49,
+        48,
+        56,
+        56,
+        53,
+        52,
+        48,
+        53,
+        60,
+        57,
+        40
+      ],
+      "avg_interest": 37.1,
+      "peak_interest": 100,
+      "trend_direction": "rising",
+      "data_points": 93,
+      "related_queries": {
+        "rising": [
+          {
+            "query": "beet gummies walmart",
+            "value": 110
+          },
+          {
+            "query": "beetroot",
+            "value": 110
+          },
+          {
+            "query": "beetroot gummies",
+            "value": 100
+          },
+          {
+            "query": "beet gummies benefits",
+            "value": 100
+          },
+          {
+            "query": "beet root gummies benefits",
+            "value": 70
+          }
+        ],
+        "top": [
+          {
+            "query": "beetroot",
+            "value": 100
+          },
+          {
+            "query": "beet gummies benefits",
+            "value": 99
+          },
+          {
+            "query": "beetroot gummies",
+            "value": 98
+          },
+          {
+            "query": "beet root gummies benefits",
+            "value": 60
+          },
+          {
+            "query": "goli beet gummies",
+            "value": 57
+          },
+          {
+            "query": "beet powder",
+            "value": 56
+          },
+          {
+            "query": "beet root supplement",
+            "value": 47
+          },
+          {
+            "query": "super beet gummies",
+            "value": 43
+          },
+          {
+            "query": "beet gummies for blood pressure",
+            "value": 41
+          },
+          {
+            "query": "beet root powder",
+            "value": 35
+          }
+        ]
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-10-14T14:22:09.354831+00:00"
+    },
+    {
+      "keyword": "toe spacers",
+      "category": "health",
+      "google_category_id": 45,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [
+        24,
+        20,
+        21,
+        15,
+        52,
+        100,
+        58,
+        37,
+        33,
+        17,
+        18,
+        26,
+        30,
+        35,
+        23,
+        16,
+        17,
+        19,
+        22,
+        22,
+        22,
+        21,
+        21,
+        20,
+        19,
+        17,
+        19,
+        20,
+        18,
+        15
+      ],
+      "avg_interest": 24.7,
+      "peak_interest": 100,
+      "trend_direction": "stable",
+      "data_points": 93,
+      "related_queries": {
+        "rising": [
+          {
+            "query": "toe separators",
+            "value": 60
+          },
+          {
+            "query": "do toe spacers work",
+            "value": 40
+          }
+        ],
+        "top": [
+          {
+            "query": "bunions",
+            "value": 100
+          },
+          {
+            "query": "bunion",
+            "value": 91
+          },
+          {
+            "query": "bunion toe spacers",
+            "value": 91
+          },
+          {
+            "query": "toe shoes",
+            "value": 80
+          },
+          {
+            "query": "gel toe spacers",
+            "value": 73
+          },
+          {
+            "query": "best toe spacers",
+            "value": 72
+          },
+          {
+            "query": "toe spacers for bunions",
+            "value": 68
+          },
+          {
+            "query": "silicone toe spacers",
+            "value": 63
+          },
+          {
+            "query": "toe separators",
+            "value": 62
+          },
+          {
+            "query": "amazon toe spacers",
+            "value": 60
+          }
+        ]
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-10-14T14:22:13.638976+00:00"
+    },
+    {
+      "keyword": "magnesium spray",
+      "category": "health",
+      "google_category_id": 45,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [],
+      "avg_interest": 0,
+      "peak_interest": 0,
+      "trend_direction": "error",
+      "data_points": 0,
+      "error": "The request failed: Google returned a response with code 429",
+      "related_queries": {
+        "rising": [
+          {
+            "query": "nodpod",
+            "value": 11650
+          },
+          {
+            "query": "dr teal's magnesium spray canada",
+            "value": 950
+          },
+          {
+            "query": "teals magnesium spray",
+            "value": 550
+          },
+          {
+            "query": "dr teals",
+            "value": 550
+          },
+          {
+            "query": "dr teal magnesium spray",
+            "value": 400
+          },
+          {
+            "query": "dr teal's magnesium spray reviews",
+            "value": 300
+          },
+          {
+            "query": "does magnesium spray help you sleep",
+            "value": 200
+          },
+          {
+            "query": "what does magnesium spray do for the body",
+            "value": 120
+          },
+          {
+            "query": "magnesium spray for leg cramps",
+            "value": 110
+          },
+          {
+            "query": "magnesium spray on feet",
+            "value": 100
+          }
+        ],
+        "top": [
+          {
+            "query": "magnesium oil",
+            "value": 100
+          },
+          {
+            "query": "magnesium oil spray",
+            "value": 98
+          },
+          {
+            "query": "sleep spray",
+            "value": 66
+          },
+          {
+            "query": "magnesium spray sleep",
+            "value": 66
+          },
+          {
+            "query": "teals magnesium spray",
+            "value": 57
+          },
+          {
+            "query": "dr teals",
+            "value": 52
+          },
+          {
+            "query": "magnesium glycinate spray",
+            "value": 50
+          },
+          {
+            "query": "magnesium glycinate",
+            "value": 50
+          },
+          {
+            "query": "magnesium body spray",
+            "value": 46
+          },
+          {
+            "query": "best magnesium spray",
+            "value": 39
+          }
+        ]
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-10-14T14:22:19.286461+00:00"
+    },
+    {
+      "keyword": "creatine gummies",
+      "category": "health",
+      "google_category_id": 45,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [
+        47,
+        50,
+        50,
+        42,
+        76,
+        100,
+        74,
+        59,
+        56,
+        47,
+        45,
+        58,
+        58,
+        56,
+        53,
+        46,
+        42,
+        40,
+        53,
+        44,
+        43,
+        43,
+        42,
+        40,
+        36,
+        39,
+        40,
+        42,
+        41,
+        36
+      ],
+      "avg_interest": 54.2,
+      "peak_interest": 100,
+      "trend_direction": "stable",
+      "data_points": 93,
+      "related_queries": {
+        "rising": [
+          {
+            "query": "oxyshred gummies",
+            "value": 550
+          },
+          {
+            "query": "oxyshred creatine gummies",
+            "value": 400
+          },
+          {
+            "query": "omni creatine gummies reviews and complaints",
+            "value": 200
+          },
+          {
+            "query": "zena creatine gummies reviews",
+            "value": 140
+          },
+          {
+            "query": "arrae creatine gummies reviews",
+            "value": 130
+          },
+          {
+            "query": "omni",
+            "value": 90
+          },
+          {
+            "query": "omni creatine",
+            "value": 90
+          },
+          {
+            "query": "esn creatine gummies",
+            "value": 90
+          },
+          {
+            "query": "omni creatine gummies reviews",
+            "value": 80
+          },
+          {
+            "query": "do creatine gummies work as well as powder",
+            "value": 70
+          }
+        ],
+        "top": [
+          {
+            "query": "creatine monohydrate gummies",
+            "value": 100
+          },
+          {
+            "query": "creatine monohydrate",
+            "value": 99
+          },
+          {
+            "query": "best creatine gummies",
+            "value": 95
+          },
+          {
+            "query": "best creatine",
+            "value": 95
+          },
+          {
+            "query": "create gummies",
+            "value": 83
+          },
+          {
+            "query": "create creatine",
+            "value": 82
+          },
+          {
+            "query": "create gummies creatine",
+            "value": 82
+          },
+          {
+            "query": "create",
+            "value": 82
+          },
+          {
+            "query": "omni",
+            "value": 62
+          },
+          {
+            "query": "omni creatine",
+            "value": 61
+          }
+        ]
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-10-14T14:22:25.055205+00:00"
+    }
+  ]
+}

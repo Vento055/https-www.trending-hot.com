@@ -1,0 +1,294 @@
+{
+  "category": "ai",
+  "fetch_date": "2026-10-14T14:21:43.931022+00:00",
+  "total_keywords": 5,
+  "source": "google_trends",
+  "data": [
+    {
+      "keyword": "ai coding agents",
+      "category": "ai",
+      "google_category_id": 5,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [
+        30,
+        25,
+        28,
+        27,
+        73,
+        97,
+        96,
+        31,
+        17,
+        18,
+        24,
+        20,
+        14,
+        20,
+        14,
+        10,
+        8,
+        7,
+        9,
+        6,
+        9,
+        7,
+        8,
+        8,
+        6,
+        7,
+        7,
+        8,
+        6,
+        9
+      ],
+      "avg_interest": 27.0,
+      "peak_interest": 100,
+      "trend_direction": "declining",
+      "data_points": 93,
+      "related_queries": {
+        "rising": [
+          {
+            "query": "byteask c++ ai coding agents",
+            "value": 35850
+          }
+        ],
+        "top": [
+          {
+            "query": "best ai coding agents",
+            "value": 100
+          },
+          {
+            "query": "claude code",
+            "value": 56
+          },
+          {
+            "query": "codex",
+            "value": 47
+          },
+          {
+            "query": "cursor ai",
+            "value": 38
+          },
+          {
+            "query": "vibe coding",
+            "value": 22
+          },
+          {
+            "query": "byteask c++ ai coding agents",
+            "value": 2
+          }
+        ]
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-10-14T14:21:21.845997+00:00"
+    },
+    {
+      "keyword": "ai video generation",
+      "category": "ai",
+      "google_category_id": 5,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [
+        31,
+        30,
+        27,
+        27,
+        71,
+        100,
+        97,
+        40,
+        23,
+        22,
+        24,
+        22,
+        21,
+        25,
+        20,
+        13,
+        11,
+        10,
+        11,
+        11,
+        12,
+        11,
+        12,
+        11,
+        11,
+        11,
+        10,
+        11,
+        10,
+        12
+      ],
+      "avg_interest": 26.7,
+      "peak_interest": 100,
+      "trend_direction": "declining",
+      "data_points": 93,
+      "related_queries": {
+        "rising": [],
+        "top": [
+          {
+            "query": "ai video generation free",
+            "value": 100
+          },
+          {
+            "query": "kling ai",
+            "value": 55
+          },
+          {
+            "query": "ai video generation tools",
+            "value": 52
+          },
+          {
+            "query": "best ai for video generation",
+            "value": 51
+          },
+          {
+            "query": "kling",
+            "value": 48
+          },
+          {
+            "query": "runway ai",
+            "value": 45
+          },
+          {
+            "query": "veo",
+            "value": 44
+          },
+          {
+            "query": "runway",
+            "value": 40
+          },
+          {
+            "query": "sora video generation",
+            "value": 24
+          },
+          {
+            "query": "sora",
+            "value": 24
+          }
+        ]
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-10-14T14:21:28.738865+00:00"
+    },
+    {
+      "keyword": "ai voice cloning",
+      "category": "ai",
+      "google_category_id": 5,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [
+        28,
+        29,
+        30,
+        25,
+        72,
+        100,
+        78,
+        34,
+        27,
+        22,
+        18,
+        21,
+        27,
+        19,
+        21,
+        12,
+        10,
+        7,
+        9,
+        8,
+        9,
+        9,
+        9,
+        9,
+        8,
+        7,
+        8,
+        8,
+        7,
+        7
+      ],
+      "avg_interest": 21.1,
+      "peak_interest": 100,
+      "trend_direction": "declining",
+      "data_points": 93,
+      "related_queries": {
+        "rising": [],
+        "top": []
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-10-14T14:21:33.792657+00:00"
+    },
+    {
+      "keyword": "eu ai act",
+      "category": "ai",
+      "google_category_id": 5,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [
+        32,
+        29,
+        28,
+        27,
+        65,
+        94,
+        100,
+        37,
+        23,
+        20,
+        19,
+        16,
+        17,
+        27,
+        21,
+        13,
+        10,
+        8,
+        7,
+        6,
+        11,
+        12,
+        10,
+        10,
+        9,
+        6,
+        6,
+        9,
+        8,
+        10
+      ],
+      "avg_interest": 27.1,
+      "peak_interest": 100,
+      "trend_direction": "declining",
+      "data_points": 93,
+      "related_queries": {
+        "rising": [],
+        "top": []
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-10-14T14:21:38.365026+00:00"
+    },
+    {
+      "keyword": "local llm",
+      "category": "ai",
+      "google_category_id": 5,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [],
+      "avg_interest": 0,
+      "peak_interest": 0,
+      "trend_direction": "error",
+      "data_points": 0,
+      "error": "The request failed: Google returned a response with code 429",
+      "related_queries": {
+        "rising": [],
+        "top": []
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-10-14T14:21:43.930217+00:00"
+    }
+  ]
+}
