@@ -1,0 +1,275 @@
+{
+  "category": "ai",
+  "fetch_date": "2026-10-15T13:57:28.559177+00:00",
+  "total_keywords": 5,
+  "source": "google_trends",
+  "data": [
+    {
+      "keyword": "ai coding agents",
+      "category": "ai",
+      "google_category_id": 5,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [
+        25,
+        26,
+        25,
+        66,
+        89,
+        91,
+        25,
+        17,
+        17,
+        22,
+        19,
+        13,
+        20,
+        15,
+        15,
+        7,
+        6,
+        9,
+        6,
+        9,
+        7,
+        8,
+        7,
+        6,
+        7,
+        6,
+        7,
+        6,
+        8,
+        7
+      ],
+      "avg_interest": 25.5,
+      "peak_interest": 100,
+      "trend_direction": "declining",
+      "data_points": 93,
+      "related_queries": {
+        "rising": [],
+        "top": []
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-10-15T13:57:05.775495+00:00"
+    },
+    {
+      "keyword": "ai video generation",
+      "category": "ai",
+      "google_category_id": 5,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [
+        31,
+        28,
+        28,
+        73,
+        100,
+        98,
+        39,
+        24,
+        24,
+        24,
+        23,
+        21,
+        25,
+        20,
+        18,
+        11,
+        10,
+        11,
+        11,
+        12,
+        13,
+        12,
+        12,
+        11,
+        11,
+        10,
+        11,
+        11,
+        11,
+        10
+      ],
+      "avg_interest": 27.0,
+      "peak_interest": 100,
+      "trend_direction": "declining",
+      "data_points": 93,
+      "related_queries": {
+        "rising": [],
+        "top": []
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-10-15T13:57:10.545529+00:00"
+    },
+    {
+      "keyword": "ai voice cloning",
+      "category": "ai",
+      "google_category_id": 5,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [],
+      "avg_interest": 0,
+      "peak_interest": 0,
+      "trend_direction": "error",
+      "data_points": 0,
+      "error": "The request failed: Google returned a response with code 429",
+      "related_queries": {
+        "rising": [],
+        "top": []
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-10-15T13:57:15.971777+00:00"
+    },
+    {
+      "keyword": "eu ai act",
+      "category": "ai",
+      "google_category_id": 5,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [
+        30,
+        28,
+        29,
+        67,
+        96,
+        100,
+        37,
+        24,
+        20,
+        19,
+        16,
+        18,
+        27,
+        22,
+        15,
+        10,
+        8,
+        7,
+        6,
+        12,
+        13,
+        10,
+        10,
+        9,
+        6,
+        6,
+        10,
+        9,
+        9,
+        10
+      ],
+      "avg_interest": 27.3,
+      "peak_interest": 100,
+      "trend_direction": "declining",
+      "data_points": 93,
+      "related_queries": {
+        "rising": [],
+        "top": []
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-10-15T13:57:22.245403+00:00"
+    },
+    {
+      "keyword": "local llm",
+      "category": "ai",
+      "google_category_id": 5,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [],
+      "avg_interest": 0,
+      "peak_interest": 0,
+      "trend_direction": "error",
+      "data_points": 0,
+      "error": "The request failed: Google returned a response with code 429",
+      "related_queries": {
+        "rising": [
+          {
+            "query": "qwen 3.8",
+            "value": 122800
+          },
+          {
+            "query": "best time to visit maldives",
+            "value": 12000
+          },
+          {
+            "query": "kimi k3",
+            "value": 10650
+          },
+          {
+            "query": "qwen 3.8 27b",
+            "value": 5800
+          },
+          {
+            "query": "glm 5.3",
+            "value": 3850
+          },
+          {
+            "query": "how to bake a cake",
+            "value": 2050
+          },
+          {
+            "query": "top tourist attractions in paris",
+            "value": 1750
+          },
+          {
+            "query": "cheapest flights to tokyo",
+            "value": 950
+          },
+          {
+            "query": "deepseek harness",
+            "value": 700
+          },
+          {
+            "query": "best laptop for work",
+            "value": 400
+          }
+        ],
+        "top": [
+          {
+            "query": "best local llm",
+            "value": 100
+          },
+          {
+            "query": "local ai",
+            "value": 93
+          },
+          {
+            "query": "local llm model",
+            "value": 63
+          },
+          {
+            "query": "local llm models",
+            "value": 45
+          },
+          {
+            "query": "ollama",
+            "value": 44
+          },
+          {
+            "query": "run local llm",
+            "value": 35
+          },
+          {
+            "query": "what is local llm",
+            "value": 34
+          },
+          {
+            "query": "llm studio",
+            "value": 32
+          },
+          {
+            "query": "qwen",
+            "value": 27
+          },
+          {
+            "query": "lm studio",
+            "value": 18
+          }
+        ]
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-10-15T13:57:28.558829+00:00"
+    }
+  ]
+}
