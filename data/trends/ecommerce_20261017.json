@@ -1,0 +1,495 @@
+{
+  "category": "ecommerce",
+  "fetch_date": "2026-10-17T12:43:39.819485+00:00",
+  "total_keywords": 5,
+  "source": "google_trends",
+  "data": [
+    {
+      "keyword": "shopify ecosystem",
+      "category": "ecommerce",
+      "google_category_id": 78,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        5,
+        7,
+        0,
+        5,
+        6,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        4,
+        0,
+        0
+      ],
+      "avg_interest": 3.0,
+      "peak_interest": 100,
+      "trend_direction": "rising",
+      "data_points": 93,
+      "related_queries": {
+        "rising": [],
+        "top": []
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-10-17T12:43:17.475814+00:00"
+    },
+    {
+      "keyword": "social commerce",
+      "category": "ecommerce",
+      "google_category_id": 78,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [
+        18,
+        55,
+        70,
+        100,
+        28,
+        15,
+        15,
+        15,
+        12,
+        15,
+        25,
+        13,
+        11,
+        8,
+        6,
+        3,
+        4,
+        8,
+        5,
+        5,
+        5,
+        4,
+        3,
+        3,
+        5,
+        4,
+        5,
+        4,
+        4,
+        3
+      ],
+      "avg_interest": 15.2,
+      "peak_interest": 100,
+      "trend_direction": "declining",
+      "data_points": 93,
+      "related_queries": {
+        "rising": [
+          {
+            "query": "freelancing latest news",
+            "value": 12300
+          },
+          {
+            "query": "edtech news",
+            "value": 12000
+          },
+          {
+            "query": "best laptop for work",
+            "value": 3350
+          },
+          {
+            "query": "how to bake a cake",
+            "value": 3200
+          },
+          {
+            "query": "smart cities news",
+            "value": 1150
+          },
+          {
+            "query": "entrepreneurship news",
+            "value": 850
+          },
+          {
+            "query": "bitcoin latest news",
+            "value": 700
+          },
+          {
+            "query": "senkaku islands",
+            "value": 300
+          },
+          {
+            "query": "interstate commerce act",
+            "value": 190
+          }
+        ],
+        "top": [
+          {
+            "query": "social media commerce",
+            "value": 100
+          },
+          {
+            "query": "social commerce trends",
+            "value": 74
+          },
+          {
+            "query": "what is social commerce",
+            "value": 73
+          },
+          {
+            "query": "tiktok social commerce",
+            "value": 65
+          },
+          {
+            "query": "social commerce marketing",
+            "value": 58
+          },
+          {
+            "query": "social commerce platform",
+            "value": 26
+          },
+          {
+            "query": "social commerce meaning",
+            "value": 25
+          },
+          {
+            "query": "social commerce definition",
+            "value": 24
+          },
+          {
+            "query": "social media marketing",
+            "value": 21
+          },
+          {
+            "query": "social commerce platforms",
+            "value": 19
+          }
+        ]
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-10-17T12:43:24.161059+00:00"
+    },
+    {
+      "keyword": "cross border ecommerce",
+      "category": "ecommerce",
+      "google_category_id": 78,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [
+        18,
+        62,
+        0,
+        100,
+        34,
+        0,
+        0,
+        0,
+        0,
+        0,
+        18,
+        22,
+        0,
+        0,
+        0,
+        4,
+        3,
+        5,
+        5,
+        5,
+        5,
+        5,
+        2,
+        2,
+        4,
+        4,
+        5,
+        3,
+        3,
+        2
+      ],
+      "avg_interest": 15.3,
+      "peak_interest": 100,
+      "trend_direction": "declining",
+      "data_points": 93,
+      "related_queries": {
+        "rising": [],
+        "top": []
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-10-17T12:43:29.208317+00:00"
+    },
+    {
+      "keyword": "bnpl",
+      "category": "ecommerce",
+      "google_category_id": 78,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [
+        31,
+        88,
+        100,
+        75,
+        35,
+        25,
+        25,
+        23,
+        23,
+        21,
+        45,
+        34,
+        26,
+        30,
+        18,
+        18,
+        17,
+        21,
+        22,
+        21,
+        21,
+        22,
+        20,
+        15,
+        19,
+        20,
+        27,
+        23,
+        20,
+        15
+      ],
+      "avg_interest": 29.6,
+      "peak_interest": 100,
+      "trend_direction": "declining",
+      "data_points": 93,
+      "related_queries": {
+        "rising": [
+          {
+            "query": "cpc itd bnpl booking hub",
+            "value": 700
+          },
+          {
+            "query": "cpc itd bnpl",
+            "value": 450
+          },
+          {
+            "query": "how do bnpl companies make money",
+            "value": 350
+          },
+          {
+            "query": "bnpl adalah",
+            "value": 250
+          },
+          {
+            "query": "bpc bnpl sp hub pbc kashmere gate",
+            "value": 200
+          },
+          {
+            "query": "bnpl yogayog bhavan bo bpc",
+            "value": 200
+          },
+          {
+            "query": "bengaluru gpo bnpl centre",
+            "value": 130
+          },
+          {
+            "query": "bnpl shopee",
+            "value": 80
+          },
+          {
+            "query": "bnpl ahmedabad",
+            "value": 70
+          },
+          {
+            "query": "jpmcb bnpl",
+            "value": 60
+          }
+        ],
+        "top": [
+          {
+            "query": "what is bnpl",
+            "value": 100
+          },
+          {
+            "query": "bnpl payment",
+            "value": 66
+          },
+          {
+            "query": "klarna",
+            "value": 56
+          },
+          {
+            "query": "bnpl meaning",
+            "value": 51
+          },
+          {
+            "query": "buy now pay later",
+            "value": 44
+          },
+          {
+            "query": "bnpl uk",
+            "value": 44
+          },
+          {
+            "query": "bnpl malaysia",
+            "value": 39
+          },
+          {
+            "query": "bnpl services",
+            "value": 36
+          },
+          {
+            "query": "paypal bnpl",
+            "value": 36
+          },
+          {
+            "query": "bnpl loan",
+            "value": 34
+          }
+        ]
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-10-17T12:43:34.713832+00:00"
+    },
+    {
+      "keyword": "headless commerce",
+      "category": "ecommerce",
+      "google_category_id": 78,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [
+        30,
+        78,
+        94,
+        100,
+        39,
+        13,
+        8,
+        8,
+        7,
+        8,
+        9,
+        12,
+        11,
+        8,
+        9,
+        3,
+        3,
+        3,
+        4,
+        3,
+        3,
+        3,
+        3,
+        2,
+        3,
+        2,
+        3,
+        3,
+        2,
+        2
+      ],
+      "avg_interest": 16.2,
+      "peak_interest": 100,
+      "trend_direction": "declining",
+      "data_points": 93,
+      "related_queries": {
+        "rising": [
+          {
+            "query": "vpn surfshark",
+            "value": 349100
+          },
+          {
+            "query": "etsy discount",
+            "value": 347850
+          },
+          {
+            "query": "nordvpn free",
+            "value": 331450
+          },
+          {
+            "query": "surfshark login",
+            "value": 5750
+          },
+          {
+            "query": "quince",
+            "value": 3950
+          },
+          {
+            "query": "nordvpn review",
+            "value": 3900
+          },
+          {
+            "query": "nordvpn coupon code",
+            "value": 3750
+          },
+          {
+            "query": "hostinger",
+            "value": 2600
+          },
+          {
+            "query": "nordvpn login",
+            "value": 2250
+          },
+          {
+            "query": "etsy",
+            "value": 1500
+          }
+        ],
+        "top": [
+          {
+            "query": "headless commerce platform",
+            "value": 100
+          },
+          {
+            "query": "etsy",
+            "value": 96
+          },
+          {
+            "query": "gate",
+            "value": 96
+          },
+          {
+            "query": "hostinger",
+            "value": 84
+          },
+          {
+            "query": "what is headless commerce",
+            "value": 82
+          },
+          {
+            "query": "quince",
+            "value": 64
+          },
+          {
+            "query": "nordvpn review",
+            "value": 47
+          },
+          {
+            "query": "vpn surfshark",
+            "value": 42
+          },
+          {
+            "query": "etsy discount",
+            "value": 42
+          },
+          {
+            "query": "nordvpn login",
+            "value": 42
+          }
+        ]
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-10-17T12:43:39.819139+00:00"
+    }
+  ]
+}

@@ -1,0 +1,508 @@
+{
+  "category": "social",
+  "fetch_date": "2026-10-17T12:44:13.324903+00:00",
+  "total_keywords": 5,
+  "source": "google_trends",
+  "data": [
+    {
+      "keyword": "tiktok shop",
+      "category": "social",
+      "google_category_id": 81,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [
+        31,
+        79,
+        99,
+        100,
+        43,
+        30,
+        29,
+        28,
+        29,
+        29,
+        32,
+        30,
+        26,
+        24,
+        23,
+        23,
+        21,
+        24,
+        24,
+        24,
+        24,
+        24,
+        23,
+        21,
+        23,
+        24,
+        25,
+        23,
+        23,
+        23
+      ],
+      "avg_interest": 32.0,
+      "peak_interest": 100,
+      "trend_direction": "declining",
+      "data_points": 93,
+      "related_queries": {
+        "rising": [
+          {
+            "query": "como vender no tiktok shop",
+            "value": 40
+          },
+          {
+            "query": "tiktok shop streamer desktop",
+            "value": 40
+          },
+          {
+            "query": "tiktok shop streamer",
+            "value": 40
+          }
+        ],
+        "top": [
+          {
+            "query": "tiktok seller shop",
+            "value": 100
+          },
+          {
+            "query": "tiktok seller",
+            "value": 99
+          },
+          {
+            "query": "what is tiktok shop",
+            "value": 48
+          },
+          {
+            "query": "tiktok shop us",
+            "value": 45
+          },
+          {
+            "query": "tiktok shop affiliate",
+            "value": 43
+          },
+          {
+            "query": "seller center tiktok shop",
+            "value": 36
+          },
+          {
+            "query": "tiktok seller center",
+            "value": 36
+          },
+          {
+            "query": "tiktok shop uk",
+            "value": 34
+          },
+          {
+            "query": "shopee",
+            "value": 32
+          },
+          {
+            "query": "tiktok shop online",
+            "value": 27
+          }
+        ]
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-10-17T12:43:52.717195+00:00"
+    },
+    {
+      "keyword": "threads app",
+      "category": "social",
+      "google_category_id": 81,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [
+        32,
+        69,
+        100,
+        55,
+        34,
+        31,
+        27,
+        28,
+        30,
+        31,
+        31,
+        27,
+        24,
+        25,
+        21,
+        18,
+        18,
+        17,
+        17,
+        17,
+        17,
+        15,
+        17,
+        16,
+        16,
+        15,
+        16,
+        16,
+        15,
+        16
+      ],
+      "avg_interest": 27.7,
+      "peak_interest": 100,
+      "trend_direction": "declining",
+      "data_points": 93,
+      "related_queries": {
+        "rising": [],
+        "top": [
+          {
+            "query": "threads app download",
+            "value": 100
+          },
+          {
+            "query": "instagram app",
+            "value": 93
+          },
+          {
+            "query": "instagram threads app",
+            "value": 93
+          },
+          {
+            "query": "what is threads app",
+            "value": 92
+          },
+          {
+            "query": "threads app free",
+            "value": 61
+          },
+          {
+            "query": "what is the threads app",
+            "value": 40
+          },
+          {
+            "query": "threads app download apk",
+            "value": 14
+          },
+          {
+            "query": "threads app login",
+            "value": 14
+          },
+          {
+            "query": "is threads app free",
+            "value": 12
+          },
+          {
+            "query": "how to use threads app",
+            "value": 10
+          }
+        ]
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-10-17T12:43:58.130052+00:00"
+    },
+    {
+      "keyword": "mastodon",
+      "category": "social",
+      "google_category_id": 81,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [
+        44,
+        83,
+        100,
+        72,
+        51,
+        46,
+        46,
+        43,
+        47,
+        50,
+        46,
+        39,
+        32,
+        25,
+        26,
+        27,
+        23,
+        24,
+        21,
+        25,
+        27,
+        27,
+        33,
+        33,
+        27,
+        23,
+        23,
+        24,
+        21,
+        18
+      ],
+      "avg_interest": 39.9,
+      "peak_interest": 100,
+      "trend_direction": "stable",
+      "data_points": 93,
+      "related_queries": {
+        "rising": [
+          {
+            "query": "california creek ancient mastodon fossil",
+            "value": 93550
+          },
+          {
+            "query": "mastodon marrow deep review",
+            "value": 73350
+          },
+          {
+            "query": "well preserved mastodon molar california",
+            "value": 40800
+          },
+          {
+            "query": "mastodon marrow deep album review",
+            "value": 19650
+          },
+          {
+            "query": "california creek mastodon molar discovery",
+            "value": 12000
+          },
+          {
+            "query": "san mateo county mastodon fossil",
+            "value": 7100
+          },
+          {
+            "query": "brent hinds estate lawsuit against mastodon",
+            "value": 6950
+          },
+          {
+            "query": "mastodon in the ruins",
+            "value": 3700
+          },
+          {
+            "query": "mastodon marrow deep",
+            "value": 800
+          },
+          {
+            "query": "marrow deep",
+            "value": 800
+          }
+        ],
+        "top": [
+          {
+            "query": "mastodon animal",
+            "value": 100
+          },
+          {
+            "query": "what is mastodon",
+            "value": 94
+          },
+          {
+            "query": "mastodon marrow deep",
+            "value": 80
+          },
+          {
+            "query": "mastodon review",
+            "value": 80
+          },
+          {
+            "query": "mastodon social",
+            "value": 80
+          },
+          {
+            "query": "mastodon band",
+            "value": 79
+          },
+          {
+            "query": "marrow deep",
+            "value": 79
+          },
+          {
+            "query": "mammoth",
+            "value": 61
+          },
+          {
+            "query": "mastodon github",
+            "value": 58
+          },
+          {
+            "query": "what is a mastodon",
+            "value": 52
+          }
+        ]
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-10-17T12:44:03.840439+00:00"
+    },
+    {
+      "keyword": "social commerce",
+      "category": "social",
+      "google_category_id": 81,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [
+        18,
+        55,
+        70,
+        100,
+        28,
+        15,
+        15,
+        15,
+        12,
+        15,
+        25,
+        13,
+        11,
+        8,
+        6,
+        3,
+        4,
+        8,
+        5,
+        5,
+        5,
+        4,
+        3,
+        3,
+        5,
+        4,
+        5,
+        4,
+        4,
+        3
+      ],
+      "avg_interest": 15.2,
+      "peak_interest": 100,
+      "trend_direction": "declining",
+      "data_points": 93,
+      "related_queries": {
+        "rising": [
+          {
+            "query": "freelancing latest news",
+            "value": 12300
+          },
+          {
+            "query": "edtech news",
+            "value": 12000
+          },
+          {
+            "query": "best laptop for work",
+            "value": 3350
+          },
+          {
+            "query": "how to bake a cake",
+            "value": 3200
+          },
+          {
+            "query": "smart cities news",
+            "value": 1150
+          },
+          {
+            "query": "entrepreneurship news",
+            "value": 850
+          },
+          {
+            "query": "bitcoin latest news",
+            "value": 700
+          },
+          {
+            "query": "senkaku islands",
+            "value": 300
+          },
+          {
+            "query": "interstate commerce act",
+            "value": 190
+          }
+        ],
+        "top": [
+          {
+            "query": "social media commerce",
+            "value": 100
+          },
+          {
+            "query": "social commerce trends",
+            "value": 74
+          },
+          {
+            "query": "what is social commerce",
+            "value": 73
+          },
+          {
+            "query": "tiktok social commerce",
+            "value": 65
+          },
+          {
+            "query": "social commerce marketing",
+            "value": 58
+          },
+          {
+            "query": "social commerce platform",
+            "value": 26
+          },
+          {
+            "query": "social commerce meaning",
+            "value": 25
+          },
+          {
+            "query": "social commerce definition",
+            "value": 24
+          },
+          {
+            "query": "social media marketing",
+            "value": 21
+          },
+          {
+            "query": "social commerce platforms",
+            "value": 19
+          }
+        ]
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-10-17T12:44:08.261461+00:00"
+    },
+    {
+      "keyword": "ai content creation",
+      "category": "social",
+      "google_category_id": 81,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [
+        24,
+        80,
+        100,
+        89,
+        42,
+        26,
+        24,
+        23,
+        23,
+        24,
+        25,
+        21,
+        22,
+        16,
+        10,
+        11,
+        10,
+        12,
+        14,
+        13,
+        15,
+        11,
+        9,
+        11,
+        12,
+        14,
+        13,
+        13,
+        11,
+        10
+      ],
+      "avg_interest": 23.3,
+      "peak_interest": 100,
+      "trend_direction": "declining",
+      "data_points": 93,
+      "related_queries": {
+        "rising": [],
+        "top": []
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-10-17T12:44:13.324086+00:00"
+    }
+  ]
+}
