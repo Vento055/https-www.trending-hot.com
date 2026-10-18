@@ -1,0 +1,431 @@
+{
+  "category": "ai",
+  "fetch_date": "2026-10-18T12:59:51.520256+00:00",
+  "total_keywords": 5,
+  "source": "google_trends",
+  "data": [
+    {
+      "keyword": "ai coding agents",
+      "category": "ai",
+      "google_category_id": 5,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [
+        67,
+        90,
+        91,
+        29,
+        16,
+        19,
+        23,
+        20,
+        12,
+        20,
+        14,
+        14,
+        11,
+        8,
+        17,
+        6,
+        9,
+        7,
+        8,
+        7,
+        6,
+        7,
+        7,
+        7,
+        6,
+        8,
+        7,
+        11,
+        7,
+        6
+      ],
+      "avg_interest": 25.1,
+      "peak_interest": 100,
+      "trend_direction": "declining",
+      "data_points": 93,
+      "related_queries": {
+        "rising": [],
+        "top": []
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-10-18T12:59:26.423306+00:00"
+    },
+    {
+      "keyword": "ai video generation",
+      "category": "ai",
+      "google_category_id": 5,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [],
+      "avg_interest": 0,
+      "peak_interest": 0,
+      "trend_direction": "error",
+      "data_points": 0,
+      "error": "The request failed: Google returned a response with code 429",
+      "related_queries": {
+        "rising": [
+          {
+            "query": "cheapest flights to tokyo",
+            "value": 6100
+          },
+          {
+            "query": "how to bake a cake",
+            "value": 3450
+          },
+          {
+            "query": "top tourist attractions in paris",
+            "value": 800
+          },
+          {
+            "query": "google vids",
+            "value": 250
+          },
+          {
+            "query": "google flow",
+            "value": 60
+          }
+        ],
+        "top": [
+          {
+            "query": "ai for video generation",
+            "value": 100
+          },
+          {
+            "query": "ai video generation free",
+            "value": 70
+          },
+          {
+            "query": "free video generation",
+            "value": 67
+          },
+          {
+            "query": "kling",
+            "value": 37
+          },
+          {
+            "query": "kling ai",
+            "value": 36
+          },
+          {
+            "query": "ai video generation tools",
+            "value": 36
+          },
+          {
+            "query": "best ai for video generation",
+            "value": 35
+          },
+          {
+            "query": "veo",
+            "value": 30
+          },
+          {
+            "query": "runway",
+            "value": 26
+          },
+          {
+            "query": "runway ai",
+            "value": 26
+          }
+        ]
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-10-18T12:59:33.211286+00:00"
+    },
+    {
+      "keyword": "ai voice cloning",
+      "category": "ai",
+      "google_category_id": 5,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [],
+      "avg_interest": 0,
+      "peak_interest": 0,
+      "trend_direction": "error",
+      "data_points": 0,
+      "error": "The request failed: Google returned a response with code 429",
+      "related_queries": {
+        "rising": [
+          {
+            "query": "kikivoice",
+            "value": 300
+          },
+          {
+            "query": "ai voice cloner",
+            "value": 300
+          },
+          {
+            "query": "clone voice ai free",
+            "value": 90
+          },
+          {
+            "query": "soundtools voice cloning",
+            "value": 60
+          },
+          {
+            "query": "ai voice cloning scam",
+            "value": 40
+          }
+        ],
+        "top": [
+          {
+            "query": "voice cloning free",
+            "value": 100
+          },
+          {
+            "query": "voice cloning ai free",
+            "value": 100
+          },
+          {
+            "query": "best ai voice cloning",
+            "value": 78
+          },
+          {
+            "query": "what is voice cloning",
+            "value": 39
+          },
+          {
+            "query": "elevenlabs",
+            "value": 34
+          },
+          {
+            "query": "elevenlabs ai",
+            "value": 33
+          },
+          {
+            "query": "elevenlabs voice cloning",
+            "value": 33
+          },
+          {
+            "query": "ai voice cloning scam",
+            "value": 23
+          },
+          {
+            "query": "ai voice cloning app",
+            "value": 23
+          },
+          {
+            "query": "voice clone",
+            "value": 22
+          }
+        ]
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-10-18T12:59:38.489312+00:00"
+    },
+    {
+      "keyword": "eu ai act",
+      "category": "ai",
+      "google_category_id": 5,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [],
+      "avg_interest": 0,
+      "peak_interest": 0,
+      "trend_direction": "error",
+      "data_points": 0,
+      "error": "The request failed: Google returned a response with code 429",
+      "related_queries": {
+        "rising": [
+          {
+            "query": "how to make sushi",
+            "value": 8650
+          },
+          {
+            "query": "how to bake a cake",
+            "value": 6800
+          },
+          {
+            "query": "best laptop for work",
+            "value": 600
+          },
+          {
+            "query": "eu ai act kennzeichnungspflicht",
+            "value": 500
+          },
+          {
+            "query": "gdpr",
+            "value": 60
+          }
+        ],
+        "top": [
+          {
+            "query": "eu ai act 2026",
+            "value": 100
+          },
+          {
+            "query": "the eu ai act",
+            "value": 47
+          },
+          {
+            "query": "gdpr",
+            "value": 17
+          },
+          {
+            "query": "eu ai act pdf",
+            "value": 15
+          },
+          {
+            "query": "eu ai act news",
+            "value": 10
+          },
+          {
+            "query": "eu ai act text",
+            "value": 10
+          },
+          {
+            "query": "eu ai act timeline",
+            "value": 9
+          },
+          {
+            "query": "eu ai act summary",
+            "value": 4
+          },
+          {
+            "query": "eu ai act kennzeichnungspflicht",
+            "value": 1
+          },
+          {
+            "query": "how to make sushi",
+            "value": 0
+          }
+        ]
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-10-18T12:59:45.193785+00:00"
+    },
+    {
+      "keyword": "local llm",
+      "category": "ai",
+      "google_category_id": 5,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [
+        83,
+        100,
+        81,
+        42,
+        32,
+        32,
+        29,
+        27,
+        32,
+        31,
+        28,
+        29,
+        24,
+        25,
+        33,
+        20,
+        22,
+        21,
+        23,
+        21,
+        20,
+        20,
+        21,
+        22,
+        23,
+        23,
+        23,
+        25,
+        21,
+        21
+      ],
+      "avg_interest": 33.5,
+      "peak_interest": 100,
+      "trend_direction": "declining",
+      "data_points": 93,
+      "related_queries": {
+        "rising": [
+          {
+            "query": "qwen 3.8 27b",
+            "value": 63300
+          },
+          {
+            "query": "qwen 3.8",
+            "value": 36400
+          },
+          {
+            "query": "glm 5.3",
+            "value": 16400
+          },
+          {
+            "query": "top tourist attractions in paris",
+            "value": 15300
+          },
+          {
+            "query": "how to bake a cake",
+            "value": 14500
+          },
+          {
+            "query": "best time to visit maldives",
+            "value": 11300
+          },
+          {
+            "query": "qwen 3.8 flash next",
+            "value": 9850
+          },
+          {
+            "query": "kimi k3",
+            "value": 3400
+          },
+          {
+            "query": "cheapest flights to tokyo",
+            "value": 1950
+          },
+          {
+            "query": "deepseek harness",
+            "value": 800
+          }
+        ],
+        "top": [
+          {
+            "query": "best local llm",
+            "value": 100
+          },
+          {
+            "query": "local ai",
+            "value": 86
+          },
+          {
+            "query": "ollama",
+            "value": 42
+          },
+          {
+            "query": "local llm models",
+            "value": 37
+          },
+          {
+            "query": "run local llm",
+            "value": 34
+          },
+          {
+            "query": "what is local llm",
+            "value": 32
+          },
+          {
+            "query": "llm studio",
+            "value": 29
+          },
+          {
+            "query": "qwen",
+            "value": 26
+          },
+          {
+            "query": "lm studio",
+            "value": 17
+          },
+          {
+            "query": "local llm for coding",
+            "value": 16
+          }
+        ]
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-10-18T12:59:51.519922+00:00"
+    }
+  ]
+}

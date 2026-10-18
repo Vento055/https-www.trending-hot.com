@@ -1,0 +1,309 @@
+{
+  "category": "social",
+  "fetch_date": "2026-10-18T13:00:56.322416+00:00",
+  "total_keywords": 5,
+  "source": "google_trends",
+  "data": [
+    {
+      "keyword": "tiktok shop",
+      "category": "social",
+      "google_category_id": 81,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [
+        80,
+        100,
+        97,
+        43,
+        32,
+        28,
+        28,
+        28,
+        30,
+        32,
+        29,
+        26,
+        23,
+        24,
+        25,
+        21,
+        24,
+        23,
+        24,
+        24,
+        24,
+        22,
+        21,
+        23,
+        25,
+        24,
+        23,
+        24,
+        20,
+        21
+      ],
+      "avg_interest": 32.0,
+      "peak_interest": 100,
+      "trend_direction": "declining",
+      "data_points": 93,
+      "related_queries": {
+        "rising": [
+          {
+            "query": "tiktok shop streamer desktop",
+            "value": 40
+          }
+        ],
+        "top": [
+          {
+            "query": "seller tiktok shop",
+            "value": 100
+          },
+          {
+            "query": "tiktok seller",
+            "value": 98
+          },
+          {
+            "query": "what is tiktok shop",
+            "value": 48
+          },
+          {
+            "query": "tiktok shop us",
+            "value": 46
+          },
+          {
+            "query": "tiktok shop affiliate",
+            "value": 45
+          },
+          {
+            "query": "tiktok seller center",
+            "value": 37
+          },
+          {
+            "query": "tiktok shop uk",
+            "value": 35
+          },
+          {
+            "query": "seller center tiktok shop",
+            "value": 35
+          },
+          {
+            "query": "shopee",
+            "value": 33
+          },
+          {
+            "query": "tiktok shop online",
+            "value": 28
+          }
+        ]
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-10-18T13:00:37.042728+00:00"
+    },
+    {
+      "keyword": "threads app",
+      "category": "social",
+      "google_category_id": 81,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [
+        68,
+        100,
+        52,
+        34,
+        32,
+        26,
+        26,
+        31,
+        31,
+        31,
+        27,
+        24,
+        22,
+        22,
+        23,
+        17,
+        17,
+        17,
+        17,
+        17,
+        15,
+        17,
+        16,
+        16,
+        15,
+        16,
+        15,
+        16,
+        15,
+        16
+      ],
+      "avg_interest": 27.7,
+      "peak_interest": 100,
+      "trend_direction": "declining",
+      "data_points": 93,
+      "related_queries": {
+        "rising": [],
+        "top": []
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-10-18T13:00:42.517125+00:00"
+    },
+    {
+      "keyword": "mastodon",
+      "category": "social",
+      "google_category_id": 81,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [],
+      "avg_interest": 0,
+      "peak_interest": 0,
+      "trend_direction": "error",
+      "data_points": 0,
+      "error": "The request failed: Google returned a response with code 429",
+      "related_queries": {
+        "rising": [],
+        "top": []
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-10-18T13:00:46.920543+00:00"
+    },
+    {
+      "keyword": "social commerce",
+      "category": "social",
+      "google_category_id": 81,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [
+        56,
+        73,
+        100,
+        30,
+        16,
+        16,
+        15,
+        13,
+        16,
+        26,
+        14,
+        11,
+        8,
+        6,
+        7,
+        4,
+        8,
+        5,
+        5,
+        5,
+        4,
+        3,
+        3,
+        5,
+        4,
+        5,
+        4,
+        4,
+        3,
+        3
+      ],
+      "avg_interest": 15.6,
+      "peak_interest": 100,
+      "trend_direction": "declining",
+      "data_points": 93,
+      "related_queries": {
+        "rising": [
+          {
+            "query": "freelancing latest news",
+            "value": 8850
+          },
+          {
+            "query": "how to bake a cake",
+            "value": 3950
+          },
+          {
+            "query": "edtech news",
+            "value": 750
+          },
+          {
+            "query": "top tourist attractions in paris",
+            "value": 600
+          },
+          {
+            "query": "upskilling 2026",
+            "value": 550
+          },
+          {
+            "query": "bitcoin latest news",
+            "value": 400
+          },
+          {
+            "query": "interstate commerce act",
+            "value": 200
+          }
+        ],
+        "top": [
+          {
+            "query": "what is social commerce",
+            "value": 100
+          },
+          {
+            "query": "social commerce trends",
+            "value": 98
+          },
+          {
+            "query": "tiktok social commerce",
+            "value": 87
+          },
+          {
+            "query": "social commerce marketing",
+            "value": 79
+          },
+          {
+            "query": "social commerce platform",
+            "value": 37
+          },
+          {
+            "query": "social commerce meaning",
+            "value": 34
+          },
+          {
+            "query": "social commerce definition",
+            "value": 32
+          },
+          {
+            "query": "social media marketing",
+            "value": 28
+          },
+          {
+            "query": "social commerce platforms",
+            "value": 26
+          },
+          {
+            "query": "music",
+            "value": 21
+          }
+        ]
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-10-18T13:00:51.358537+00:00"
+    },
+    {
+      "keyword": "ai content creation",
+      "category": "social",
+      "google_category_id": 81,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [],
+      "avg_interest": 0,
+      "peak_interest": 0,
+      "trend_direction": "error",
+      "data_points": 0,
+      "error": "The request failed: Google returned a response with code 429",
+      "related_queries": {
+        "rising": [],
+        "top": []
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-10-18T13:00:56.321746+00:00"
+    }
+  ]
+}
