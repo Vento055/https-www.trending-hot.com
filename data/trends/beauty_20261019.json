@@ -1,0 +1,369 @@
+{
+  "category": "beauty",
+  "fetch_date": "2026-10-19T16:12:17.442873+00:00",
+  "total_keywords": 5,
+  "source": "google_trends",
+  "data": [
+    {
+      "keyword": "glass skin",
+      "category": "beauty",
+      "google_category_id": 44,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [
+        100,
+        77,
+        43,
+        28,
+        25,
+        28,
+        38,
+        38,
+        35,
+        35,
+        26,
+        20,
+        19,
+        19,
+        18,
+        15,
+        14,
+        16,
+        30,
+        23,
+        18,
+        17,
+        15,
+        14,
+        14,
+        15,
+        14,
+        15,
+        15,
+        12
+      ],
+      "avg_interest": 25.5,
+      "peak_interest": 100,
+      "trend_direction": "stable",
+      "data_points": 93,
+      "related_queries": {
+        "rising": [],
+        "top": []
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-10-19T16:11:56.078897+00:00"
+    },
+    {
+      "keyword": "nano hydroxyapatite toothpaste",
+      "category": "beauty",
+      "google_category_id": 44,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [
+        100,
+        94,
+        54,
+        38,
+        37,
+        50,
+        69,
+        63,
+        51,
+        41,
+        39,
+        32,
+        32,
+        34,
+        19,
+        28,
+        32,
+        33,
+        25,
+        25,
+        25,
+        30,
+        31,
+        30,
+        30,
+        31,
+        28,
+        31,
+        31,
+        23
+      ],
+      "avg_interest": 42.8,
+      "peak_interest": 100,
+      "trend_direction": "declining",
+      "data_points": 93,
+      "related_queries": {
+        "rising": [],
+        "top": []
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-10-19T16:12:01.441545+00:00"
+    },
+    {
+      "keyword": "beet gummies",
+      "category": "beauty",
+      "google_category_id": 44,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [
+        0,
+        0,
+        0,
+        52,
+        55,
+        67,
+        77,
+        57,
+        90,
+        82,
+        65,
+        63,
+        52,
+        58,
+        73,
+        52,
+        61,
+        61,
+        57,
+        55,
+        54,
+        59,
+        66,
+        61,
+        55,
+        65,
+        58,
+        58,
+        56,
+        41
+      ],
+      "avg_interest": 41.4,
+      "peak_interest": 100,
+      "trend_direction": "rising",
+      "data_points": 93,
+      "related_queries": {
+        "rising": [
+          {
+            "query": "beetroot",
+            "value": 130
+          },
+          {
+            "query": "beet root gummies benefits",
+            "value": 110
+          },
+          {
+            "query": "beetroot gummies",
+            "value": 100
+          },
+          {
+            "query": "beet gummies benefits",
+            "value": 100
+          },
+          {
+            "query": "beet gummies walmart",
+            "value": 70
+          }
+        ],
+        "top": [
+          {
+            "query": "beetroot gummies",
+            "value": 100
+          },
+          {
+            "query": "beet gummies benefits",
+            "value": 99
+          },
+          {
+            "query": "beetroot",
+            "value": 96
+          },
+          {
+            "query": "beet root gummies benefits",
+            "value": 67
+          },
+          {
+            "query": "beet supplement",
+            "value": 66
+          },
+          {
+            "query": "beet powder",
+            "value": 62
+          },
+          {
+            "query": "goli beet gummies",
+            "value": 53
+          },
+          {
+            "query": "beet root supplement",
+            "value": 50
+          },
+          {
+            "query": "super beet gummies",
+            "value": 43
+          },
+          {
+            "query": "beet gummies for blood pressure",
+            "value": 41
+          }
+        ]
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-10-19T16:12:06.623070+00:00"
+    },
+    {
+      "keyword": "toe spacers",
+      "category": "beauty",
+      "google_category_id": 44,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [
+        100,
+        84,
+        46,
+        45,
+        23,
+        24,
+        39,
+        33,
+        40,
+        26,
+        25,
+        28,
+        32,
+        27,
+        27,
+        32,
+        30,
+        31,
+        29,
+        27,
+        25,
+        27,
+        29,
+        27,
+        26,
+        25,
+        21,
+        23,
+        23,
+        23
+      ],
+      "avg_interest": 34.2,
+      "peak_interest": 100,
+      "trend_direction": "stable",
+      "data_points": 93,
+      "related_queries": {
+        "rising": [
+          {
+            "query": "pedifix visco-gel toe spacers",
+            "value": 90
+          },
+          {
+            "query": "toe separators",
+            "value": 60
+          },
+          {
+            "query": "what do toe spacers do",
+            "value": 40
+          }
+        ],
+        "top": [
+          {
+            "query": "bunions",
+            "value": 100
+          },
+          {
+            "query": "bunion",
+            "value": 97
+          },
+          {
+            "query": "bunion toe spacers",
+            "value": 96
+          },
+          {
+            "query": "gel toe spacers",
+            "value": 83
+          },
+          {
+            "query": "toe shoes",
+            "value": 83
+          },
+          {
+            "query": "best toe spacers",
+            "value": 79
+          },
+          {
+            "query": "silicone toe spacers",
+            "value": 71
+          },
+          {
+            "query": "toe spacers for bunions",
+            "value": 69
+          },
+          {
+            "query": "toe separators",
+            "value": 67
+          },
+          {
+            "query": "amazon toe spacers",
+            "value": 66
+          }
+        ]
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-10-19T16:12:11.836839+00:00"
+    },
+    {
+      "keyword": "scalp serum",
+      "category": "beauty",
+      "google_category_id": 44,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [
+        100,
+        86,
+        53,
+        43,
+        41,
+        42,
+        50,
+        58,
+        54,
+        48,
+        44,
+        34,
+        34,
+        31,
+        37,
+        28,
+        28,
+        27,
+        26,
+        25,
+        26,
+        30,
+        27,
+        26,
+        25,
+        27,
+        25,
+        28,
+        29,
+        24
+      ],
+      "avg_interest": 39.5,
+      "peak_interest": 100,
+      "trend_direction": "stable",
+      "data_points": 93,
+      "related_queries": {
+        "rising": [],
+        "top": []
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-10-19T16:12:17.442060+00:00"
+    }
+  ]
+}

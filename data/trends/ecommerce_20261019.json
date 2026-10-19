@@ -1,0 +1,289 @@
+{
+  "category": "ecommerce",
+  "fetch_date": "2026-10-19T16:13:50.826152+00:00",
+  "total_keywords": 5,
+  "source": "google_trends",
+  "data": [
+    {
+      "keyword": "shopify ecosystem",
+      "category": "ecommerce",
+      "google_category_id": 78,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        6,
+        0,
+        9,
+        0,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0
+      ],
+      "avg_interest": 3.2,
+      "peak_interest": 100,
+      "trend_direction": "declining",
+      "data_points": 93,
+      "related_queries": {
+        "rising": [],
+        "top": []
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-10-19T16:13:30.422744+00:00"
+    },
+    {
+      "keyword": "social commerce",
+      "category": "ecommerce",
+      "google_category_id": 78,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [
+        73,
+        100,
+        29,
+        16,
+        15,
+        15,
+        12,
+        17,
+        25,
+        14,
+        11,
+        8,
+        6,
+        6,
+        6,
+        8,
+        5,
+        5,
+        5,
+        4,
+        3,
+        3,
+        5,
+        4,
+        5,
+        4,
+        4,
+        3,
+        3,
+        4
+      ],
+      "avg_interest": 15.3,
+      "peak_interest": 100,
+      "trend_direction": "declining",
+      "data_points": 93,
+      "related_queries": {
+        "rising": [
+          {
+            "query": "smart cities news",
+            "value": 9150
+          },
+          {
+            "query": "edtech news",
+            "value": 1950
+          },
+          {
+            "query": "freelancing latest news",
+            "value": 750
+          },
+          {
+            "query": "freelance jobs online",
+            "value": 600
+          },
+          {
+            "query": "interstate commerce act",
+            "value": 200
+          },
+          {
+            "query": "jobs",
+            "value": 50
+          }
+        ],
+        "top": [
+          {
+            "query": "social media commerce",
+            "value": 100
+          },
+          {
+            "query": "what is social commerce",
+            "value": 70
+          },
+          {
+            "query": "social commerce trends",
+            "value": 70
+          },
+          {
+            "query": "tiktok social commerce",
+            "value": 61
+          },
+          {
+            "query": "social commerce marketing",
+            "value": 55
+          },
+          {
+            "query": "jobs",
+            "value": 40
+          },
+          {
+            "query": "social commerce meaning",
+            "value": 24
+          },
+          {
+            "query": "social commerce definition",
+            "value": 22
+          },
+          {
+            "query": "social media marketing",
+            "value": 20
+          },
+          {
+            "query": "social commerce platforms",
+            "value": 18
+          }
+        ]
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-10-19T16:13:36.926165+00:00"
+    },
+    {
+      "keyword": "cross border ecommerce",
+      "category": "ecommerce",
+      "google_category_id": 78,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [
+        0,
+        100,
+        31,
+        0,
+        0,
+        0,
+        13,
+        0,
+        14,
+        16,
+        0,
+        0,
+        0,
+        0,
+        0,
+        4,
+        4,
+        4,
+        4,
+        4,
+        1,
+        2,
+        3,
+        3,
+        4,
+        3,
+        3,
+        2,
+        2,
+        3
+      ],
+      "avg_interest": 13.1,
+      "peak_interest": 100,
+      "trend_direction": "declining",
+      "data_points": 93,
+      "related_queries": {
+        "rising": [],
+        "top": []
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-10-19T16:13:41.728337+00:00"
+    },
+    {
+      "keyword": "bnpl",
+      "category": "ecommerce",
+      "google_category_id": 78,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [
+        100,
+        70,
+        34,
+        24,
+        24,
+        22,
+        23,
+        22,
+        42,
+        33,
+        25,
+        30,
+        18,
+        21,
+        18,
+        21,
+        21,
+        21,
+        20,
+        20,
+        18,
+        15,
+        19,
+        19,
+        26,
+        22,
+        21,
+        16,
+        13,
+        19
+      ],
+      "avg_interest": 28.6,
+      "peak_interest": 100,
+      "trend_direction": "declining",
+      "data_points": 93,
+      "related_queries": {
+        "rising": [],
+        "top": []
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-10-19T16:13:46.398962+00:00"
+    },
+    {
+      "keyword": "headless commerce",
+      "category": "ecommerce",
+      "google_category_id": 78,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [],
+      "avg_interest": 0,
+      "peak_interest": 0,
+      "trend_direction": "error",
+      "data_points": 0,
+      "error": "The request failed: Google returned a response with code 429",
+      "related_queries": {
+        "rising": [],
+        "top": []
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-10-19T16:13:50.825321+00:00"
+    }
+  ]
+}

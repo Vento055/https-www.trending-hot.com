@@ -1,0 +1,223 @@
+{
+  "category": "ai",
+  "fetch_date": "2026-10-19T16:13:19.859844+00:00",
+  "total_keywords": 5,
+  "source": "google_trends",
+  "data": [
+    {
+      "keyword": "ai coding agents",
+      "category": "ai",
+      "google_category_id": 5,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [
+        88,
+        83,
+        24,
+        16,
+        16,
+        22,
+        18,
+        12,
+        19,
+        13,
+        13,
+        12,
+        10,
+        15,
+        10,
+        8,
+        7,
+        8,
+        7,
+        5,
+        6,
+        6,
+        7,
+        6,
+        8,
+        7,
+        10,
+        7,
+        5,
+        6
+      ],
+      "avg_interest": 23.6,
+      "peak_interest": 100,
+      "trend_direction": "declining",
+      "data_points": 93,
+      "related_queries": {
+        "rising": [
+          {
+            "query": "byteask c++ ai coding agents",
+            "value": 37950
+          }
+        ],
+        "top": [
+          {
+            "query": "best ai coding agents",
+            "value": 100
+          },
+          {
+            "query": "claude code",
+            "value": 55
+          },
+          {
+            "query": "codex",
+            "value": 47
+          },
+          {
+            "query": "cursor ai",
+            "value": 39
+          },
+          {
+            "query": "vibe coding",
+            "value": 22
+          },
+          {
+            "query": "byteask c++ ai coding agents",
+            "value": 2
+          }
+        ]
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-10-19T16:12:59.658834+00:00"
+    },
+    {
+      "keyword": "ai video generation",
+      "category": "ai",
+      "google_category_id": 5,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [
+        100,
+        99,
+        39,
+        24,
+        23,
+        25,
+        24,
+        21,
+        26,
+        20,
+        17,
+        15,
+        14,
+        20,
+        17,
+        12,
+        12,
+        12,
+        11,
+        11,
+        11,
+        10,
+        11,
+        11,
+        12,
+        11,
+        12,
+        11,
+        10,
+        10
+      ],
+      "avg_interest": 26.6,
+      "peak_interest": 100,
+      "trend_direction": "declining",
+      "data_points": 93,
+      "related_queries": {
+        "rising": [],
+        "top": []
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-10-19T16:13:04.342193+00:00"
+    },
+    {
+      "keyword": "ai voice cloning",
+      "category": "ai",
+      "google_category_id": 5,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [],
+      "avg_interest": 0,
+      "peak_interest": 0,
+      "trend_direction": "error",
+      "data_points": 0,
+      "error": "The request failed: Google returned a response with code 429",
+      "related_queries": {
+        "rising": [],
+        "top": []
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-10-19T16:13:09.562497+00:00"
+    },
+    {
+      "keyword": "eu ai act",
+      "category": "ai",
+      "google_category_id": 5,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [],
+      "avg_interest": 0,
+      "peak_interest": 0,
+      "trend_direction": "error",
+      "data_points": 0,
+      "error": "The request failed: Google returned a response with code 429",
+      "related_queries": {
+        "rising": [],
+        "top": []
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-10-19T16:13:14.000078+00:00"
+    },
+    {
+      "keyword": "local llm",
+      "category": "ai",
+      "google_category_id": 5,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [
+        100,
+        80,
+        42,
+        32,
+        32,
+        30,
+        27,
+        32,
+        30,
+        29,
+        28,
+        25,
+        25,
+        33,
+        24,
+        23,
+        20,
+        24,
+        22,
+        20,
+        20,
+        21,
+        23,
+        24,
+        23,
+        23,
+        25,
+        23,
+        22,
+        20
+      ],
+      "avg_interest": 33.4,
+      "peak_interest": 100,
+      "trend_direction": "declining",
+      "data_points": 93,
+      "related_queries": {
+        "rising": [],
+        "top": []
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-10-19T16:13:19.859004+00:00"
+    }
+  ]
+}
