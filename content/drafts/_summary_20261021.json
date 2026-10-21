@@ -1,0 +1,20 @@
+{
+  "generated_at": "2026-10-21T14:22:26.093237+00:00",
+  "results": [
+    {
+      "keyword": "Britney Spears Comeback & Nostalgia Media Network",
+      "status": "failed",
+      "error": "Error code: 401 - {'error': {'message': 'Authentication Fails, Your api key: ****11de is invalid (request_id: a7bcb701-72be-4841-b48a-fefed6d20386)', 'type': 'authentication_error', 'param': None, 'code': 'invalid_request_error'}}"
+    },
+    {
+      "keyword": "Alaska Airlines Flight Disruption & Recovery Tracker",
+      "status": "failed",
+      "error": "Error code: 401 - {'error': {'message': 'Authentication Fails, Your api key: ****11de is invalid (request_id: 3c026983-8baa-4c1f-bcdf-6d0fab05d0a6)', 'type': 'authentication_error', 'param': None, 'code': 'invalid_request_error'}}"
+    },
+    {
+      "keyword": "Lottery Jackpot Strategy & Payout Calculator Suite",
+      "status": "failed",
+      "error": "Error code: 401 - {'error': {'message': 'Authentication Fails, Your api key: ****11de is invalid (request_id: 623be4a6-202e-40ae-b62b-ec5c59e39374)', 'type': 'authentication_error', 'param': None, 'code': 'invalid_request_error'}}"
+    }
+  ]
+}
