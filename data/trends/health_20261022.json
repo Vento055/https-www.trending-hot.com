@@ -1,0 +1,471 @@
+{
+  "category": "health",
+  "fetch_date": "2026-10-22T14:23:59.283275+00:00",
+  "total_keywords": 5,
+  "source": "google_trends",
+  "data": [
+    {
+      "keyword": "nano hydroxyapatite",
+      "category": "health",
+      "google_category_id": 45,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [
+        45,
+        48,
+        54,
+        68,
+        64,
+        51,
+        52,
+        50,
+        40,
+        33,
+        34,
+        31,
+        38,
+        44,
+        43,
+        31,
+        29,
+        30,
+        34,
+        35,
+        34,
+        35,
+        35,
+        34,
+        35,
+        38,
+        34,
+        36,
+        38,
+        30
+      ],
+      "avg_interest": 46.5,
+      "peak_interest": 100,
+      "trend_direction": "stable",
+      "data_points": 93,
+      "related_queries": {
+        "rising": [
+          {
+            "query": "holydeer nano hydroxyapatite toothpaste",
+            "value": 300
+          }
+        ],
+        "top": [
+          {
+            "query": "nano hydroxyapatite toothpaste",
+            "value": 100
+          },
+          {
+            "query": "hydroxyapatite toothpaste",
+            "value": 98
+          },
+          {
+            "query": "boka",
+            "value": 19
+          },
+          {
+            "query": "boka nano hydroxyapatite toothpaste",
+            "value": 17
+          },
+          {
+            "query": "boka toothpaste",
+            "value": 17
+          },
+          {
+            "query": "best nano hydroxyapatite toothpaste",
+            "value": 9
+          },
+          {
+            "query": "best hydroxyapatite toothpaste",
+            "value": 9
+          },
+          {
+            "query": "best toothpaste",
+            "value": 9
+          },
+          {
+            "query": "what is nano hydroxyapatite",
+            "value": 8
+          },
+          {
+            "query": "10 nano hydroxyapatite",
+            "value": 7
+          }
+        ]
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-10-22T14:23:38.467678+00:00"
+    },
+    {
+      "keyword": "beet gummies",
+      "category": "health",
+      "google_category_id": 45,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [
+        56,
+        63,
+        70,
+        0,
+        70,
+        79,
+        82,
+        74,
+        68,
+        71,
+        0,
+        67,
+        59,
+        65,
+        79,
+        57,
+        56,
+        52,
+        57,
+        65,
+        63,
+        57,
+        66,
+        60,
+        59,
+        56,
+        61,
+        66,
+        62,
+        42
+      ],
+      "avg_interest": 46.8,
+      "peak_interest": 100,
+      "trend_direction": "rising",
+      "data_points": 93,
+      "related_queries": {
+        "rising": [
+          {
+            "query": "beet gummies walmart",
+            "value": 160
+          },
+          {
+            "query": "beetroot",
+            "value": 100
+          },
+          {
+            "query": "beetroot gummies",
+            "value": 80
+          },
+          {
+            "query": "beet gummies benefits",
+            "value": 80
+          },
+          {
+            "query": "beet root gummies benefits",
+            "value": 70
+          }
+        ],
+        "top": [
+          {
+            "query": "beetroot",
+            "value": 100
+          },
+          {
+            "query": "beet gummies benefits",
+            "value": 97
+          },
+          {
+            "query": "beetroot gummies",
+            "value": 91
+          },
+          {
+            "query": "nitric oxide",
+            "value": 80
+          },
+          {
+            "query": "beets",
+            "value": 67
+          },
+          {
+            "query": "beet root gummies benefits",
+            "value": 65
+          },
+          {
+            "query": "beet supplement",
+            "value": 62
+          },
+          {
+            "query": "goli gummies",
+            "value": 56
+          },
+          {
+            "query": "goli beet gummies",
+            "value": 55
+          },
+          {
+            "query": "beet root supplement",
+            "value": 49
+          }
+        ]
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-10-22T14:23:43.581674+00:00"
+    },
+    {
+      "keyword": "toe spacers",
+      "category": "health",
+      "google_category_id": 45,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [
+        52,
+        29,
+        27,
+        44,
+        47,
+        49,
+        40,
+        26,
+        30,
+        38,
+        31,
+        35,
+        34,
+        37,
+        50,
+        33,
+        30,
+        28,
+        31,
+        31,
+        30,
+        28,
+        28,
+        24,
+        27,
+        29,
+        30,
+        29,
+        27,
+        24
+      ],
+      "avg_interest": 38.2,
+      "peak_interest": 100,
+      "trend_direction": "stable",
+      "data_points": 93,
+      "related_queries": {
+        "rising": [
+          {
+            "query": "vivobarefoot",
+            "value": 130
+          },
+          {
+            "query": "pedifix visco-gel toe spacers",
+            "value": 60
+          },
+          {
+            "query": "how long to wear toe spacers",
+            "value": 50
+          },
+          {
+            "query": "toe separators",
+            "value": 50
+          }
+        ],
+        "top": [
+          {
+            "query": "bunions",
+            "value": 100
+          },
+          {
+            "query": "bunion toe spacers",
+            "value": 95
+          },
+          {
+            "query": "bunion",
+            "value": 91
+          },
+          {
+            "query": "toe shoes",
+            "value": 82
+          },
+          {
+            "query": "gel toe spacers",
+            "value": 80
+          },
+          {
+            "query": "best toe spacers",
+            "value": 75
+          },
+          {
+            "query": "toe spacers for bunions",
+            "value": 68
+          },
+          {
+            "query": "silicone toe spacers",
+            "value": 68
+          },
+          {
+            "query": "toe spacers amazon",
+            "value": 66
+          },
+          {
+            "query": "toe separators",
+            "value": 65
+          }
+        ]
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-10-22T14:23:48.733423+00:00"
+    },
+    {
+      "keyword": "magnesium spray",
+      "category": "health",
+      "google_category_id": 45,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [
+        54,
+        44,
+        42,
+        54,
+        55,
+        61,
+        53,
+        44,
+        40,
+        33,
+        40,
+        40,
+        47,
+        42,
+        54,
+        48,
+        44,
+        41,
+        36,
+        37,
+        35,
+        35,
+        32,
+        30,
+        30,
+        32,
+        34,
+        32,
+        30,
+        29
+      ],
+      "avg_interest": 45.5,
+      "peak_interest": 100,
+      "trend_direction": "stable",
+      "data_points": 93,
+      "related_queries": {
+        "rising": [
+          {
+            "query": "dr teal's magnesium spray canada",
+            "value": 13700
+          },
+          {
+            "query": "dr teals magnesium spray",
+            "value": 550
+          },
+          {
+            "query": "teals magnesium spray",
+            "value": 500
+          },
+          {
+            "query": "dr teal magnesium spray",
+            "value": 450
+          },
+          {
+            "query": "does magnesium spray help you sleep",
+            "value": 120
+          },
+          {
+            "query": "what does magnesium spray do for the body",
+            "value": 120
+          },
+          {
+            "query": "magnesium spray for leg cramps",
+            "value": 120
+          },
+          {
+            "query": "is magnesium spray good for you",
+            "value": 110
+          },
+          {
+            "query": "magnesium spray kruidvat",
+            "value": 100
+          },
+          {
+            "query": "dr teal's magnesium spray reviews",
+            "value": 90
+          }
+        ],
+        "top": [
+          {
+            "query": "magnesium oil spray",
+            "value": 100
+          },
+          {
+            "query": "sleep spray",
+            "value": 68
+          },
+          {
+            "query": "magnesium sleep spray",
+            "value": 67
+          },
+          {
+            "query": "teals magnesium spray",
+            "value": 60
+          },
+          {
+            "query": "dr teals magnesium spray",
+            "value": 56
+          },
+          {
+            "query": "magnesium glycinate spray",
+            "value": 51
+          },
+          {
+            "query": "magnesium glycinate",
+            "value": 51
+          },
+          {
+            "query": "magnesium body spray",
+            "value": 47
+          },
+          {
+            "query": "best magnesium spray",
+            "value": 39
+          },
+          {
+            "query": "magnesium spray for sleep",
+            "value": 39
+          }
+        ]
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-10-22T14:23:54.398150+00:00"
+    },
+    {
+      "keyword": "creatine gummies",
+      "category": "health",
+      "google_category_id": 45,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [],
+      "avg_interest": 0,
+      "peak_interest": 0,
+      "trend_direction": "error",
+      "data_points": 0,
+      "error": "The request failed: Google returned a response with code 429",
+      "related_queries": {
+        "rising": [],
+        "top": []
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-10-22T14:23:59.282515+00:00"
+    }
+  ]
+}
