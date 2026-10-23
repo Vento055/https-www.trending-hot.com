@@ -1,0 +1,317 @@
+{
+  "category": "social",
+  "fetch_date": "2026-10-23T14:05:23.411619+00:00",
+  "total_keywords": 5,
+  "source": "google_trends",
+  "data": [
+    {
+      "keyword": "tiktok shop",
+      "category": "social",
+      "google_category_id": 81,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [
+        28,
+        28,
+        29,
+        29,
+        32,
+        29,
+        30,
+        25,
+        24,
+        25,
+        23,
+        28,
+        26,
+        28,
+        28,
+        24,
+        23,
+        21,
+        23,
+        24,
+        25,
+        24,
+        23,
+        22,
+        21,
+        24,
+        23,
+        24,
+        23,
+        24
+      ],
+      "avg_interest": 31.8,
+      "peak_interest": 100,
+      "trend_direction": "declining",
+      "data_points": 93,
+      "related_queries": {
+        "rising": [],
+        "top": []
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-10-23T14:04:59.648426+00:00"
+    },
+    {
+      "keyword": "threads app",
+      "category": "social",
+      "google_category_id": 81,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [],
+      "avg_interest": 0,
+      "peak_interest": 0,
+      "trend_direction": "error",
+      "data_points": 0,
+      "error": "The request failed: Google returned a response with code 429",
+      "related_queries": {
+        "rising": [
+          {
+            "query": "who owns threads app",
+            "value": 190
+          }
+        ],
+        "top": [
+          {
+            "query": "threads app download",
+            "value": 100
+          },
+          {
+            "query": "what is threads app",
+            "value": 92
+          },
+          {
+            "query": "instagram threads app",
+            "value": 90
+          },
+          {
+            "query": "instagram app",
+            "value": 90
+          },
+          {
+            "query": "download video threads app",
+            "value": 40
+          },
+          {
+            "query": "threads app login",
+            "value": 14
+          },
+          {
+            "query": "is threads app free",
+            "value": 11
+          },
+          {
+            "query": "how to use threads app",
+            "value": 10
+          },
+          {
+            "query": "who owns threads app",
+            "value": 2
+          }
+        ]
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-10-23T14:05:05.298671+00:00"
+    },
+    {
+      "keyword": "mastodon",
+      "category": "social",
+      "google_category_id": 81,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [
+        45,
+        40,
+        44,
+        46,
+        43,
+        38,
+        31,
+        24,
+        25,
+        23,
+        22,
+        21,
+        21,
+        24,
+        29,
+        27,
+        30,
+        32,
+        24,
+        22,
+        21,
+        22,
+        21,
+        22,
+        23,
+        23,
+        22,
+        24,
+        23,
+        19
+      ],
+      "avg_interest": 37.3,
+      "peak_interest": 100,
+      "trend_direction": "stable",
+      "data_points": 93,
+      "related_queries": {
+        "rising": [
+          {
+            "query": "california creek ancient mastodon fossil",
+            "value": 92850
+          },
+          {
+            "query": "mastodon marrow deep review",
+            "value": 72700
+          },
+          {
+            "query": "mastodon in the ruins",
+            "value": 60850
+          },
+          {
+            "query": "well preserved mastodon molar california",
+            "value": 39800
+          },
+          {
+            "query": "brent hinds estate lawsuit against mastodon",
+            "value": 6950
+          },
+          {
+            "query": "terry tao mastodon",
+            "value": 6900
+          },
+          {
+            "query": "san mateo county mastodon fossil",
+            "value": 6600
+          },
+          {
+            "query": "mastodon marrow deep album review",
+            "value": 1600
+          },
+          {
+            "query": "california creek mastodon molar discovery",
+            "value": 1200
+          },
+          {
+            "query": "mastodon marrow deep",
+            "value": 700
+          }
+        ],
+        "top": [
+          {
+            "query": "mastodon animal",
+            "value": 100
+          },
+          {
+            "query": "what is mastodon",
+            "value": 94
+          },
+          {
+            "query": "marrow deep",
+            "value": 79
+          },
+          {
+            "query": "mastodon band",
+            "value": 79
+          },
+          {
+            "query": "mastodon marrow deep",
+            "value": 78
+          },
+          {
+            "query": "mastodon social",
+            "value": 77
+          },
+          {
+            "query": "mammoth",
+            "value": 61
+          },
+          {
+            "query": "mastodon github",
+            "value": 54
+          },
+          {
+            "query": "what is a mastodon",
+            "value": 50
+          },
+          {
+            "query": "bluesky",
+            "value": 50
+          }
+        ]
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-10-23T14:05:11.251965+00:00"
+    },
+    {
+      "keyword": "social commerce",
+      "category": "social",
+      "google_category_id": 81,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [
+        15,
+        15,
+        13,
+        16,
+        25,
+        14,
+        11,
+        8,
+        6,
+        6,
+        7,
+        15,
+        6,
+        7,
+        8,
+        4,
+        3,
+        3,
+        5,
+        5,
+        5,
+        4,
+        4,
+        3,
+        3,
+        4,
+        4,
+        4,
+        4,
+        4
+      ],
+      "avg_interest": 14.8,
+      "peak_interest": 100,
+      "trend_direction": "declining",
+      "data_points": 93,
+      "related_queries": {
+        "rising": [],
+        "top": []
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-10-23T14:05:17.153670+00:00"
+    },
+    {
+      "keyword": "ai content creation",
+      "category": "social",
+      "google_category_id": 81,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [],
+      "avg_interest": 0,
+      "peak_interest": 0,
+      "trend_direction": "error",
+      "data_points": 0,
+      "error": "The request failed: Google returned a response with code 429",
+      "related_queries": {
+        "rising": [],
+        "top": []
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-10-23T14:05:23.410721+00:00"
+    }
+  ]
+}

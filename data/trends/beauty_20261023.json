@@ -1,0 +1,215 @@
+{
+  "category": "beauty",
+  "fetch_date": "2026-10-23T14:04:29.923008+00:00",
+  "total_keywords": 5,
+  "source": "google_trends",
+  "data": [
+    {
+      "keyword": "glass skin",
+      "category": "beauty",
+      "google_category_id": 44,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [
+        26,
+        29,
+        39,
+        38,
+        36,
+        36,
+        27,
+        20,
+        19,
+        20,
+        18,
+        18,
+        17,
+        19,
+        34,
+        24,
+        18,
+        17,
+        15,
+        15,
+        15,
+        15,
+        15,
+        16,
+        16,
+        14,
+        14,
+        15,
+        15,
+        14
+      ],
+      "avg_interest": 25.8,
+      "peak_interest": 100,
+      "trend_direction": "stable",
+      "data_points": 93,
+      "related_queries": {
+        "rising": [
+          {
+            "query": "cathy doll glass skin cream",
+            "value": 7350
+          },
+          {
+            "query": "pat mcgrath glass skin setting spray",
+            "value": 200
+          },
+          {
+            "query": "glow and plump glass skin drops",
+            "value": 150
+          },
+          {
+            "query": "mamaearth rice face wash with rice water & niacinamide for glass skin",
+            "value": 130
+          },
+          {
+            "query": "glass bones and paper skin",
+            "value": 100
+          },
+          {
+            "query": "biodance collagen mask",
+            "value": 90
+          },
+          {
+            "query": "korean glass skin facial",
+            "value": 70
+          },
+          {
+            "query": "glass skin look",
+            "value": 60
+          },
+          {
+            "query": "loreal glass skin mask",
+            "value": 60
+          },
+          {
+            "query": "how to get glass skin",
+            "value": 50
+          }
+        ],
+        "top": [
+          {
+            "query": "glass skin set",
+            "value": 100
+          },
+          {
+            "query": "glass skin cream",
+            "value": 87
+          },
+          {
+            "query": "glass skin serum",
+            "value": 66
+          },
+          {
+            "query": "korean glass skin",
+            "value": 64
+          },
+          {
+            "query": "glass skin mask",
+            "value": 63
+          },
+          {
+            "query": "glass skin care",
+            "value": 55
+          },
+          {
+            "query": "what is glass skin",
+            "value": 45
+          },
+          {
+            "query": "loreal",
+            "value": 40
+          },
+          {
+            "query": "glass skin loreal",
+            "value": 40
+          },
+          {
+            "query": "glass skin facial",
+            "value": 38
+          }
+        ]
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-10-23T14:04:10.549385+00:00"
+    },
+    {
+      "keyword": "nano hydroxyapatite toothpaste",
+      "category": "beauty",
+      "google_category_id": 44,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [],
+      "avg_interest": 0,
+      "peak_interest": 0,
+      "trend_direction": "error",
+      "data_points": 0,
+      "error": "The request failed: Google returned a response with code 429",
+      "related_queries": {
+        "rising": [],
+        "top": []
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-10-23T14:04:15.130419+00:00"
+    },
+    {
+      "keyword": "beet gummies",
+      "category": "beauty",
+      "google_category_id": 44,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [],
+      "avg_interest": 0,
+      "peak_interest": 0,
+      "trend_direction": "error",
+      "data_points": 0,
+      "error": "The request failed: Google returned a response with code 429",
+      "related_queries": {
+        "rising": [],
+        "top": []
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-10-23T14:04:19.729994+00:00"
+    },
+    {
+      "keyword": "toe spacers",
+      "category": "beauty",
+      "google_category_id": 44,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [],
+      "avg_interest": 0,
+      "peak_interest": 0,
+      "trend_direction": "error",
+      "data_points": 0,
+      "error": "The request failed: Google returned a response with code 429",
+      "related_queries": {
+        "rising": [],
+        "top": []
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-10-23T14:04:24.312689+00:00"
+    },
+    {
+      "keyword": "scalp serum",
+      "category": "beauty",
+      "google_category_id": 44,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [],
+      "avg_interest": 0,
+      "peak_interest": 0,
+      "trend_direction": "error",
+      "data_points": 0,
+      "error": "The request failed: Google returned a response with code 429",
+      "related_queries": {
+        "rising": [],
+        "top": []
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-10-23T14:04:29.922514+00:00"
+    }
+  ]
+}

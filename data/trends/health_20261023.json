@@ -1,0 +1,335 @@
+{
+  "category": "health",
+  "fetch_date": "2026-10-23T14:05:57.610736+00:00",
+  "total_keywords": 5,
+  "source": "google_trends",
+  "data": [
+    {
+      "keyword": "nano hydroxyapatite",
+      "category": "health",
+      "google_category_id": 45,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [
+        48,
+        54,
+        63,
+        67,
+        57,
+        54,
+        50,
+        40,
+        33,
+        35,
+        31,
+        35,
+        43,
+        47,
+        35,
+        29,
+        31,
+        35,
+        35,
+        35,
+        35,
+        35,
+        33,
+        35,
+        38,
+        34,
+        37,
+        40,
+        35,
+        33
+      ],
+      "avg_interest": 46.9,
+      "peak_interest": 100,
+      "trend_direction": "declining",
+      "data_points": 93,
+      "related_queries": {
+        "rising": [],
+        "top": []
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-10-23T14:05:33.690507+00:00"
+    },
+    {
+      "keyword": "beet gummies",
+      "category": "health",
+      "google_category_id": 45,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [
+        84,
+        48,
+        65,
+        100,
+        70,
+        72,
+        68,
+        83,
+        0,
+        0,
+        55,
+        50,
+        0,
+        64,
+        58,
+        49,
+        45,
+        50,
+        56,
+        52,
+        47,
+        57,
+        50,
+        50,
+        48,
+        51,
+        59,
+        51,
+        47,
+        39
+      ],
+      "avg_interest": 39.8,
+      "peak_interest": 100,
+      "trend_direction": "rising",
+      "data_points": 93,
+      "related_queries": {
+        "rising": [],
+        "top": []
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-10-23T14:05:38.888018+00:00"
+    },
+    {
+      "keyword": "toe spacers",
+      "category": "health",
+      "google_category_id": 45,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [
+        24,
+        19,
+        38,
+        37,
+        40,
+        34,
+        23,
+        33,
+        32,
+        29,
+        25,
+        29,
+        35,
+        52,
+        41,
+        28,
+        25,
+        28,
+        28,
+        28,
+        25,
+        25,
+        21,
+        24,
+        27,
+        27,
+        26,
+        26,
+        24,
+        23
+      ],
+      "avg_interest": 34.0,
+      "peak_interest": 100,
+      "trend_direction": "stable",
+      "data_points": 93,
+      "related_queries": {
+        "rising": [],
+        "top": []
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-10-23T14:05:44.143749+00:00"
+    },
+    {
+      "keyword": "magnesium spray",
+      "category": "health",
+      "google_category_id": 45,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [
+        46,
+        41,
+        56,
+        56,
+        58,
+        55,
+        46,
+        36,
+        36,
+        39,
+        42,
+        46,
+        42,
+        55,
+        51,
+        46,
+        39,
+        37,
+        38,
+        35,
+        35,
+        33,
+        30,
+        31,
+        33,
+        36,
+        32,
+        32,
+        33,
+        29
+      ],
+      "avg_interest": 46.1,
+      "peak_interest": 100,
+      "trend_direction": "stable",
+      "data_points": 93,
+      "related_queries": {
+        "rising": [],
+        "top": []
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-10-23T14:05:51.283749+00:00"
+    },
+    {
+      "keyword": "creatine gummies",
+      "category": "health",
+      "google_category_id": 45,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [
+        48,
+        45,
+        61,
+        57,
+        58,
+        55,
+        54,
+        52,
+        46,
+        51,
+        49,
+        50,
+        43,
+        52,
+        47,
+        37,
+        43,
+        41,
+        43,
+        42,
+        42,
+        42,
+        36,
+        36,
+        39,
+        43,
+        41,
+        43,
+        38,
+        30
+      ],
+      "avg_interest": 54.4,
+      "peak_interest": 100,
+      "trend_direction": "declining",
+      "data_points": 93,
+      "related_queries": {
+        "rising": [
+          {
+            "query": "oxyshred creatine gummies",
+            "value": 500
+          },
+          {
+            "query": "how much creatine should you take a day",
+            "value": 190
+          },
+          {
+            "query": "applied nutrition creatine gummies",
+            "value": 160
+          },
+          {
+            "query": "arrae creatine gummies reviews",
+            "value": 120
+          },
+          {
+            "query": "esn creatine gummies",
+            "value": 110
+          },
+          {
+            "query": "do creatine gummies work as well as powder",
+            "value": 100
+          },
+          {
+            "query": "cunnies creatine gummies",
+            "value": 80
+          },
+          {
+            "query": "zena creatine gummies reviews",
+            "value": 70
+          },
+          {
+            "query": "omni",
+            "value": 70
+          },
+          {
+            "query": "omni creatine gummies",
+            "value": 70
+          }
+        ],
+        "top": [
+          {
+            "query": "creatine monohydrate",
+            "value": 100
+          },
+          {
+            "query": "creatine monohydrate gummies",
+            "value": 98
+          },
+          {
+            "query": "best creatine gummies",
+            "value": 95
+          },
+          {
+            "query": "best creatine",
+            "value": 95
+          },
+          {
+            "query": "create creatine",
+            "value": 83
+          },
+          {
+            "query": "create",
+            "value": 82
+          },
+          {
+            "query": "create gummies creatine",
+            "value": 82
+          },
+          {
+            "query": "create gummies",
+            "value": 81
+          },
+          {
+            "query": "creatine powder",
+            "value": 62
+          },
+          {
+            "query": "omni creatine",
+            "value": 61
+          }
+        ]
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-10-23T14:05:57.610376+00:00"
+    }
+  ]
+}
