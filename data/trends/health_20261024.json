@@ -1,0 +1,195 @@
+{
+  "category": "health",
+  "fetch_date": "2026-10-24T13:09:43.499399+00:00",
+  "total_keywords": 5,
+  "source": "google_trends",
+  "data": [
+    {
+      "keyword": "nano hydroxyapatite",
+      "category": "health",
+      "google_category_id": 45,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [],
+      "avg_interest": 0,
+      "peak_interest": 0,
+      "trend_direction": "error",
+      "data_points": 0,
+      "error": "The request failed: Google returned a response with code 429",
+      "related_queries": {
+        "rising": [],
+        "top": []
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-10-24T13:09:23.172331+00:00"
+    },
+    {
+      "keyword": "beet gummies",
+      "category": "health",
+      "google_category_id": 45,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [
+        54,
+        79,
+        57,
+        82,
+        76,
+        60,
+        42,
+        0,
+        0,
+        60,
+        0,
+        52,
+        83,
+        95,
+        66,
+        49,
+        52,
+        55,
+        54,
+        48,
+        58,
+        50,
+        51,
+        49,
+        53,
+        57,
+        53,
+        50,
+        49,
+        35
+      ],
+      "avg_interest": 43.6,
+      "peak_interest": 100,
+      "trend_direction": "stable",
+      "data_points": 93,
+      "related_queries": {
+        "rising": [
+          {
+            "query": "beet gummies walmart",
+            "value": 130
+          },
+          {
+            "query": "beetroot gummies",
+            "value": 90
+          },
+          {
+            "query": "beet gummies benefits",
+            "value": 80
+          },
+          {
+            "query": "beetroot",
+            "value": 80
+          },
+          {
+            "query": "beet root gummies benefits",
+            "value": 80
+          }
+        ],
+        "top": [
+          {
+            "query": "beet gummies benefits",
+            "value": 100
+          },
+          {
+            "query": "beetroot gummies",
+            "value": 98
+          },
+          {
+            "query": "beetroot",
+            "value": 98
+          },
+          {
+            "query": "nitric oxide",
+            "value": 94
+          },
+          {
+            "query": "beet root gummies benefits",
+            "value": 70
+          },
+          {
+            "query": "beets",
+            "value": 69
+          },
+          {
+            "query": "beet supplement",
+            "value": 67
+          },
+          {
+            "query": "goli gummies",
+            "value": 55
+          },
+          {
+            "query": "goli beet gummies",
+            "value": 55
+          },
+          {
+            "query": "beet powder",
+            "value": 52
+          }
+        ]
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-10-24T13:09:28.243417+00:00"
+    },
+    {
+      "keyword": "toe spacers",
+      "category": "health",
+      "google_category_id": 45,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [],
+      "avg_interest": 0,
+      "peak_interest": 0,
+      "trend_direction": "error",
+      "data_points": 0,
+      "error": "The request failed: Google returned a response with code 429",
+      "related_queries": {
+        "rising": [],
+        "top": []
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-10-24T13:09:33.061813+00:00"
+    },
+    {
+      "keyword": "magnesium spray",
+      "category": "health",
+      "google_category_id": 45,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [],
+      "avg_interest": 0,
+      "peak_interest": 0,
+      "trend_direction": "error",
+      "data_points": 0,
+      "error": "The request failed: Google returned a response with code 429",
+      "related_queries": {
+        "rising": [],
+        "top": []
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-10-24T13:09:38.454637+00:00"
+    },
+    {
+      "keyword": "creatine gummies",
+      "category": "health",
+      "google_category_id": 45,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [],
+      "avg_interest": 0,
+      "peak_interest": 0,
+      "trend_direction": "error",
+      "data_points": 0,
+      "error": "The request failed: Google returned a response with code 429",
+      "related_queries": {
+        "rising": [],
+        "top": []
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-10-24T13:09:43.498512+00:00"
+    }
+  ]
+}
