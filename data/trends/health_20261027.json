@@ -1,0 +1,239 @@
+{
+  "category": "health",
+  "fetch_date": "2026-10-27T15:10:29.775418+00:00",
+  "total_keywords": 5,
+  "source": "google_trends",
+  "data": [
+    {
+      "keyword": "nano hydroxyapatite",
+      "category": "health",
+      "google_category_id": 45,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [
+        43,
+        45,
+        43,
+        31,
+        28,
+        28,
+        26,
+        31,
+        37,
+        36,
+        30,
+        28,
+        27,
+        28,
+        37,
+        28,
+        29,
+        30,
+        28,
+        30,
+        32,
+        29,
+        31,
+        34,
+        31,
+        31,
+        28,
+        31,
+        30,
+        28
+      ],
+      "avg_interest": 39.1,
+      "peak_interest": 100,
+      "trend_direction": "declining",
+      "data_points": 93,
+      "related_queries": {
+        "rising": [
+          {
+            "query": "holydeer nano hydroxyapatite toothpaste",
+            "value": 250
+          }
+        ],
+        "top": [
+          {
+            "query": "nano hydroxyapatite toothpaste",
+            "value": 100
+          },
+          {
+            "query": "hydroxyapatite toothpaste",
+            "value": 100
+          },
+          {
+            "query": "boka",
+            "value": 19
+          },
+          {
+            "query": "boka toothpaste",
+            "value": 18
+          },
+          {
+            "query": "boka nano hydroxyapatite toothpaste",
+            "value": 17
+          },
+          {
+            "query": "best nano hydroxyapatite toothpaste",
+            "value": 9
+          },
+          {
+            "query": "best toothpaste",
+            "value": 9
+          },
+          {
+            "query": "best hydroxyapatite toothpaste",
+            "value": 9
+          },
+          {
+            "query": "what is nano hydroxyapatite",
+            "value": 9
+          },
+          {
+            "query": "nano hydroxyapatite vs hydroxyapatite",
+            "value": 8
+          }
+        ]
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-10-27T15:10:10.501017+00:00"
+    },
+    {
+      "keyword": "beet gummies",
+      "category": "health",
+      "google_category_id": 45,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [
+        42,
+        31,
+        37,
+        34,
+        27,
+        0,
+        27,
+        36,
+        28,
+        42,
+        0,
+        30,
+        28,
+        34,
+        23,
+        29,
+        26,
+        30,
+        28,
+        28,
+        26,
+        28,
+        31,
+        29,
+        25,
+        26,
+        24,
+        23,
+        24,
+        16
+      ],
+      "avg_interest": 21.0,
+      "peak_interest": 100,
+      "trend_direction": "rising",
+      "data_points": 93,
+      "related_queries": {
+        "rising": [],
+        "top": []
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-10-27T15:10:15.609837+00:00"
+    },
+    {
+      "keyword": "toe spacers",
+      "category": "health",
+      "google_category_id": 45,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [
+        41,
+        32,
+        23,
+        32,
+        25,
+        26,
+        21,
+        28,
+        28,
+        45,
+        36,
+        35,
+        18,
+        17,
+        30,
+        26,
+        24,
+        24,
+        20,
+        24,
+        24,
+        26,
+        25,
+        24,
+        25,
+        25,
+        25,
+        30,
+        31,
+        26
+      ],
+      "avg_interest": 33.1,
+      "peak_interest": 100,
+      "trend_direction": "stable",
+      "data_points": 93,
+      "related_queries": {
+        "rising": [],
+        "top": []
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-10-27T15:10:20.166583+00:00"
+    },
+    {
+      "keyword": "magnesium spray",
+      "category": "health",
+      "google_category_id": 45,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [],
+      "avg_interest": 0,
+      "peak_interest": 0,
+      "trend_direction": "error",
+      "data_points": 0,
+      "error": "The request failed: Google returned a response with code 429",
+      "related_queries": {
+        "rising": [],
+        "top": []
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-10-27T15:10:25.025106+00:00"
+    },
+    {
+      "keyword": "creatine gummies",
+      "category": "health",
+      "google_category_id": 45,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [],
+      "avg_interest": 0,
+      "peak_interest": 0,
+      "trend_direction": "error",
+      "data_points": 0,
+      "error": "The request failed: Google returned a response with code 429",
+      "related_queries": {
+        "rising": [],
+        "top": []
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-10-27T15:10:29.774924+00:00"
+    }
+  ]
+}
