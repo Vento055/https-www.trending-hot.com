@@ -1,0 +1,331 @@
+{
+  "category": "beauty",
+  "fetch_date": "2026-10-29T15:52:03.361361+00:00",
+  "total_keywords": 5,
+  "source": "google_trends",
+  "data": [
+    {
+      "keyword": "glass skin",
+      "category": "beauty",
+      "google_category_id": 44,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [
+        26,
+        20,
+        19,
+        19,
+        18,
+        17,
+        17,
+        19,
+        33,
+        25,
+        21,
+        20,
+        17,
+        17,
+        15,
+        15,
+        15,
+        16,
+        15,
+        14,
+        13,
+        14,
+        14,
+        16,
+        17,
+        16,
+        14,
+        16,
+        14,
+        13
+      ],
+      "avg_interest": 25.2,
+      "peak_interest": 100,
+      "trend_direction": "declining",
+      "data_points": 93,
+      "related_queries": {
+        "rising": [],
+        "top": []
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-10-29T15:51:43.240035+00:00"
+    },
+    {
+      "keyword": "nano hydroxyapatite toothpaste",
+      "category": "beauty",
+      "google_category_id": 44,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [
+        39,
+        35,
+        31,
+        42,
+        29,
+        37,
+        38,
+        39,
+        36,
+        36,
+        27,
+        28,
+        46,
+        30,
+        36,
+        33,
+        30,
+        33,
+        34,
+        31,
+        33,
+        37,
+        33,
+        34,
+        30,
+        33,
+        34,
+        35,
+        31,
+        28
+      ],
+      "avg_interest": 44.0,
+      "peak_interest": 100,
+      "trend_direction": "declining",
+      "data_points": 93,
+      "related_queries": {
+        "rising": [],
+        "top": []
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-10-29T15:51:47.794388+00:00"
+    },
+    {
+      "keyword": "beet gummies",
+      "category": "beauty",
+      "google_category_id": 44,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [
+        56,
+        58,
+        0,
+        90,
+        76,
+        43,
+        48,
+        76,
+        44,
+        46,
+        0,
+        45,
+        53,
+        45,
+        51,
+        54,
+        51,
+        51,
+        49,
+        51,
+        57,
+        51,
+        48,
+        49,
+        42,
+        43,
+        42,
+        43,
+        48,
+        38
+      ],
+      "avg_interest": 42.4,
+      "peak_interest": 100,
+      "trend_direction": "rising",
+      "data_points": 93,
+      "related_queries": {
+        "rising": [],
+        "top": []
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-10-29T15:51:52.668006+00:00"
+    },
+    {
+      "keyword": "toe spacers",
+      "category": "beauty",
+      "google_category_id": 44,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [
+        20,
+        27,
+        27,
+        22,
+        26,
+        26,
+        24,
+        41,
+        39,
+        31,
+        12,
+        15,
+        25,
+        24,
+        24,
+        21,
+        18,
+        21,
+        22,
+        23,
+        22,
+        22,
+        22,
+        22,
+        22,
+        27,
+        28,
+        27,
+        23,
+        17
+      ],
+      "avg_interest": 29.5,
+      "peak_interest": 100,
+      "trend_direction": "stable",
+      "data_points": 93,
+      "related_queries": {
+        "rising": [],
+        "top": []
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-10-29T15:51:57.502055+00:00"
+    },
+    {
+      "keyword": "scalp serum",
+      "category": "beauty",
+      "google_category_id": 44,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [
+        42,
+        33,
+        32,
+        30,
+        35,
+        29,
+        33,
+        30,
+        31,
+        28,
+        32,
+        32,
+        31,
+        28,
+        33,
+        26,
+        26,
+        28,
+        29,
+        29,
+        25,
+        27,
+        24,
+        27,
+        28,
+        30,
+        28,
+        27,
+        27,
+        24
+      ],
+      "avg_interest": 39.1,
+      "peak_interest": 100,
+      "trend_direction": "declining",
+      "data_points": 93,
+      "related_queries": {
+        "rising": [
+          {
+            "query": "aromatica rosemary pdrn scalp serum",
+            "value": 550
+          },
+          {
+            "query": "vegan boost scalp serum",
+            "value": 200
+          },
+          {
+            "query": "k18 scalp serum",
+            "value": 170
+          },
+          {
+            "query": "cafune scalp serum",
+            "value": 120
+          },
+          {
+            "query": "rosemary pdrn scalp serum",
+            "value": 120
+          },
+          {
+            "query": "deoxyribose",
+            "value": 110
+          },
+          {
+            "query": "deoxyribose scalp serum",
+            "value": 110
+          },
+          {
+            "query": "loreal scalp serum",
+            "value": 70
+          },
+          {
+            "query": "medicube",
+            "value": 40
+          }
+        ],
+        "top": [
+          {
+            "query": "hair scalp serum",
+            "value": 100
+          },
+          {
+            "query": "hair serum",
+            "value": 99
+          },
+          {
+            "query": "hair growth scalp serum",
+            "value": 27
+          },
+          {
+            "query": "hair growth serum",
+            "value": 23
+          },
+          {
+            "query": "best scalp serum",
+            "value": 17
+          },
+          {
+            "query": "dry scalp serum",
+            "value": 15
+          },
+          {
+            "query": "scalp serum for hair growth",
+            "value": 14
+          },
+          {
+            "query": "ordinary scalp serum",
+            "value": 11
+          },
+          {
+            "query": "scalp serum for dry scalp",
+            "value": 10
+          },
+          {
+            "query": "kerastase serum",
+            "value": 9
+          }
+        ]
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-10-29T15:52:03.360965+00:00"
+    }
+  ]
+}
