@@ -1,0 +1,484 @@
+{
+  "category": "tech",
+  "fetch_date": "2026-10-30T15:32:59.173997+00:00",
+  "total_keywords": 5,
+  "source": "google_trends",
+  "data": [
+    {
+      "keyword": "ai coding agents",
+      "category": "tech",
+      "google_category_id": 5,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [
+        15,
+        10,
+        18,
+        10,
+        19,
+        13,
+        18,
+        11,
+        7,
+        12,
+        11,
+        14,
+        9,
+        14,
+        8,
+        12,
+        8,
+        6,
+        7,
+        8,
+        7,
+        7,
+        8,
+        8,
+        8,
+        8,
+        9,
+        8,
+        9,
+        8
+      ],
+      "avg_interest": 23.7,
+      "peak_interest": 100,
+      "trend_direction": "declining",
+      "data_points": 93,
+      "related_queries": {
+        "rising": [
+          {
+            "query": "byteask c++ ai coding agents",
+            "value": 42700
+          },
+          {
+            "query": "how to make sushi",
+            "value": 20950
+          },
+          {
+            "query": "cheapest flights to tokyo",
+            "value": 20400
+          },
+          {
+            "query": "email marketing for restaurants",
+            "value": 3750
+          },
+          {
+            "query": "best time to visit maldives",
+            "value": 2650
+          },
+          {
+            "query": "best laptop for work",
+            "value": 1650
+          },
+          {
+            "query": "how to bake a cake",
+            "value": 1250
+          },
+          {
+            "query": "top tourist attractions in paris",
+            "value": 1150
+          },
+          {
+            "query": "jobs",
+            "value": 40
+          }
+        ],
+        "top": [
+          {
+            "query": "best coding agents",
+            "value": 100
+          },
+          {
+            "query": "best ai coding agents",
+            "value": 100
+          },
+          {
+            "query": "claude code",
+            "value": 55
+          },
+          {
+            "query": "free coding agents",
+            "value": 49
+          },
+          {
+            "query": "codex ai",
+            "value": 45
+          },
+          {
+            "query": "codex",
+            "value": 45
+          },
+          {
+            "query": "cursor ai",
+            "value": 36
+          },
+          {
+            "query": "cursor",
+            "value": 36
+          },
+          {
+            "query": "jobs",
+            "value": 36
+          },
+          {
+            "query": "openai",
+            "value": 33
+          }
+        ]
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-10-30T15:32:39.155117+00:00"
+    },
+    {
+      "keyword": "webgpu",
+      "category": "tech",
+      "google_category_id": 5,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [
+        16,
+        12,
+        23,
+        25,
+        24,
+        24,
+        10,
+        17,
+        23,
+        18,
+        16,
+        21,
+        20,
+        24,
+        19,
+        18,
+        17,
+        15,
+        14,
+        15,
+        18,
+        24,
+        27,
+        24,
+        24,
+        27,
+        28,
+        26,
+        24,
+        21
+      ],
+      "avg_interest": 25.1,
+      "peak_interest": 100,
+      "trend_direction": "declining",
+      "data_points": 93,
+      "related_queries": {
+        "rising": [
+          {
+            "query": "azeroth survivors",
+            "value": 64600
+          },
+          {
+            "query": "cricket 07",
+            "value": 18850
+          },
+          {
+            "query": "nfsu2",
+            "value": 12250
+          },
+          {
+            "query": "resident evil outbreak",
+            "value": 12050
+          },
+          {
+            "query": "azeroth survivors game",
+            "value": 6700
+          },
+          {
+            "query": "cricket 07.dhaiwat.com",
+            "value": 2200
+          },
+          {
+            "query": "webgpu is switched on in this browser but it found no usable graphics adapter. check that hardware acceleration is on in the browser settings and the graphics driver is up to date. remote desktop and virtual machines often have no gpu for the browser.",
+            "value": 450
+          }
+        ],
+        "top": [
+          {
+            "query": "webgpu support",
+            "value": 100
+          },
+          {
+            "query": "webgpu github",
+            "value": 94
+          },
+          {
+            "query": "webgl",
+            "value": 82
+          },
+          {
+            "query": "chrome webgpu",
+            "value": 67
+          },
+          {
+            "query": "what is webgpu",
+            "value": 56
+          },
+          {
+            "query": "three.js",
+            "value": 43
+          },
+          {
+            "query": "webgpu firefox",
+            "value": 41
+          },
+          {
+            "query": "webgpu api",
+            "value": 40
+          },
+          {
+            "query": "webgpu safari",
+            "value": 30
+          },
+          {
+            "query": "webgpu test",
+            "value": 29
+          }
+        ]
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-10-30T15:32:44.363719+00:00"
+    },
+    {
+      "keyword": "rust programming 2026",
+      "category": "tech",
+      "google_category_id": 5,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [
+        0,
+        0,
+        21,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        4,
+        3,
+        2,
+        1,
+        2,
+        2,
+        2,
+        2,
+        1,
+        2,
+        2,
+        1,
+        2,
+        0,
+        1
+      ],
+      "avg_interest": 6.8,
+      "peak_interest": 100,
+      "trend_direction": "declining",
+      "data_points": 93,
+      "related_queries": {
+        "rising": [],
+        "top": []
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-10-30T15:32:49.328677+00:00"
+    },
+    {
+      "keyword": "htmx",
+      "category": "tech",
+      "google_category_id": 5,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [
+        29,
+        24,
+        0,
+        0,
+        32,
+        32,
+        31,
+        25,
+        23,
+        25,
+        23,
+        42,
+        26,
+        29,
+        24,
+        30,
+        19,
+        20,
+        24,
+        25,
+        28,
+        29,
+        27,
+        18,
+        19,
+        27,
+        24,
+        27,
+        27,
+        28
+      ],
+      "avg_interest": 43.7,
+      "peak_interest": 100,
+      "trend_direction": "declining",
+      "data_points": 93,
+      "related_queries": {
+        "rising": [
+          {
+            "query": "htmx11",
+            "value": 1250
+          },
+          {
+            "query": "que es htmx",
+            "value": 120
+          },
+          {
+            "query": "golang",
+            "value": 120
+          },
+          {
+            "query": "golang htmx",
+            "value": 110
+          },
+          {
+            "query": "htmx 4.0",
+            "value": 110
+          },
+          {
+            "query": "htmx vs html",
+            "value": 100
+          },
+          {
+            "query": "tailwind",
+            "value": 80
+          },
+          {
+            "query": "htmx vs alpine",
+            "value": 80
+          },
+          {
+            "query": "htmx vs react",
+            "value": 60
+          }
+        ],
+        "top": [
+          {
+            "query": "htmx github",
+            "value": 100
+          },
+          {
+            "query": "htmx documentation",
+            "value": 87
+          },
+          {
+            "query": "what is htmx",
+            "value": 57
+          },
+          {
+            "query": "htmx django",
+            "value": 54
+          },
+          {
+            "query": "django",
+            "value": 54
+          },
+          {
+            "query": "htmx go",
+            "value": 51
+          },
+          {
+            "query": "react",
+            "value": 37
+          },
+          {
+            "query": "htmx example",
+            "value": 29
+          },
+          {
+            "query": "golang htmx",
+            "value": 28
+          },
+          {
+            "query": "tailwind",
+            "value": 27
+          }
+        ]
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-10-30T15:32:54.289094+00:00"
+    },
+    {
+      "keyword": "notion plugins",
+      "category": "tech",
+      "google_category_id": 5,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        12,
+        8,
+        13,
+        11,
+        20,
+        14,
+        15,
+        13,
+        10,
+        8,
+        13,
+        14,
+        11,
+        13,
+        0
+      ],
+      "avg_interest": 3.0,
+      "peak_interest": 100,
+      "trend_direction": "rising",
+      "data_points": 93,
+      "related_queries": {
+        "rising": [],
+        "top": [
+          {
+            "query": "obsidian plugins",
+            "value": 100
+          }
+        ]
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-10-30T15:32:59.173649+00:00"
+    }
+  ]
+}
