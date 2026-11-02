@@ -1,0 +1,439 @@
+{
+  "category": "ecommerce",
+  "fetch_date": "2026-11-02T19:13:34.957030+00:00",
+  "total_keywords": 5,
+  "source": "google_trends",
+  "data": [
+    {
+      "keyword": "shopify ecosystem",
+      "category": "ecommerce",
+      "google_category_id": 78,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        6,
+        5,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        4,
+        0
+      ],
+      "avg_interest": 2.1,
+      "peak_interest": 100,
+      "trend_direction": "rising",
+      "data_points": 93,
+      "related_queries": {
+        "rising": [],
+        "top": []
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-11-02T19:13:14.685292+00:00"
+    },
+    {
+      "keyword": "social commerce",
+      "category": "ecommerce",
+      "google_category_id": 78,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [
+        6,
+        14,
+        6,
+        7,
+        7,
+        5,
+        5,
+        3,
+        6,
+        5,
+        6,
+        5,
+        6,
+        3,
+        4,
+        4,
+        4,
+        4,
+        4,
+        5,
+        4,
+        3,
+        4,
+        4,
+        5,
+        5,
+        3,
+        3,
+        4,
+        4
+      ],
+      "avg_interest": 13.3,
+      "peak_interest": 100,
+      "trend_direction": "declining",
+      "data_points": 93,
+      "related_queries": {
+        "rising": [
+          {
+            "query": "top tourist attractions in paris",
+            "value": 9650
+          },
+          {
+            "query": "how to bake a cake",
+            "value": 7400
+          },
+          {
+            "query": "best time to visit maldives",
+            "value": 6450
+          },
+          {
+            "query": "best laptop for work",
+            "value": 5400
+          },
+          {
+            "query": "senkaku islands",
+            "value": 750
+          },
+          {
+            "query": "sherman antitrust act",
+            "value": 600
+          },
+          {
+            "query": "interstate commerce act",
+            "value": 400
+          },
+          {
+            "query": "cooking",
+            "value": 80
+          },
+          {
+            "query": "commerce clause",
+            "value": 60
+          }
+        ],
+        "top": [
+          {
+            "query": "social media commerce",
+            "value": 100
+          },
+          {
+            "query": "what is social commerce",
+            "value": 82
+          },
+          {
+            "query": "social commerce trends",
+            "value": 79
+          },
+          {
+            "query": "social commerce marketing",
+            "value": 65
+          },
+          {
+            "query": "social commerce platform",
+            "value": 26
+          },
+          {
+            "query": "social commerce meaning",
+            "value": 26
+          },
+          {
+            "query": "social commerce definition",
+            "value": 24
+          },
+          {
+            "query": "social media marketing",
+            "value": 23
+          },
+          {
+            "query": "social commerce platforms",
+            "value": 20
+          },
+          {
+            "query": "department of commerce",
+            "value": 19
+          }
+        ]
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-11-02T19:13:20.517455+00:00"
+    },
+    {
+      "keyword": "cross border ecommerce",
+      "category": "ecommerce",
+      "google_category_id": 78,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [
+        0,
+        0,
+        13,
+        0,
+        17,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        3,
+        4,
+        2,
+        2,
+        2,
+        2,
+        3,
+        2,
+        2,
+        2,
+        2,
+        3,
+        1,
+        3,
+        3
+      ],
+      "avg_interest": 11.6,
+      "peak_interest": 100,
+      "trend_direction": "declining",
+      "data_points": 93,
+      "related_queries": {
+        "rising": [],
+        "top": []
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-11-02T19:13:25.098184+00:00"
+    },
+    {
+      "keyword": "bnpl",
+      "category": "ecommerce",
+      "google_category_id": 78,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [
+        18,
+        25,
+        20,
+        25,
+        19,
+        19,
+        18,
+        18,
+        20,
+        18,
+        26,
+        23,
+        19,
+        19,
+        12,
+        19,
+        19,
+        20,
+        20,
+        20,
+        17,
+        15,
+        20,
+        20,
+        21,
+        21,
+        21,
+        18,
+        17,
+        20
+      ],
+      "avg_interest": 27.0,
+      "peak_interest": 100,
+      "trend_direction": "declining",
+      "data_points": 93,
+      "related_queries": {
+        "rising": [
+          {
+            "query": "cpc itd bnpl booking hub",
+            "value": 300
+          },
+          {
+            "query": "bnpl adalah",
+            "value": 300
+          },
+          {
+            "query": "diy projects",
+            "value": 250
+          },
+          {
+            "query": "cpc itd bnpl",
+            "value": 250
+          },
+          {
+            "query": "bnpl yogayog bhavan bo bpc",
+            "value": 150
+          },
+          {
+            "query": "bnpl ahmedabad",
+            "value": 150
+          },
+          {
+            "query": "bnpl 是 什么",
+            "value": 130
+          },
+          {
+            "query": "bengaluru gpo bnpl centre",
+            "value": 110
+          },
+          {
+            "query": "bnpl shopee",
+            "value": 90
+          },
+          {
+            "query": "bnpl full form",
+            "value": 80
+          }
+        ],
+        "top": [
+          {
+            "query": "what is bnpl",
+            "value": 100
+          },
+          {
+            "query": "bnpl payment",
+            "value": 64
+          },
+          {
+            "query": "klarna",
+            "value": 53
+          },
+          {
+            "query": "bnpl meaning",
+            "value": 53
+          },
+          {
+            "query": "buy now pay later",
+            "value": 43
+          },
+          {
+            "query": "bnpl uk",
+            "value": 40
+          },
+          {
+            "query": "bnpl malaysia",
+            "value": 37
+          },
+          {
+            "query": "paypal bnpl",
+            "value": 35
+          },
+          {
+            "query": "bnpl services",
+            "value": 33
+          },
+          {
+            "query": "bnpl loan",
+            "value": 32
+          }
+        ]
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-11-02T19:13:30.066761+00:00"
+    },
+    {
+      "keyword": "headless commerce",
+      "category": "ecommerce",
+      "google_category_id": 78,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [
+        8,
+        6,
+        7,
+        9,
+        7,
+        6,
+        0,
+        0,
+        4,
+        0,
+        4,
+        6,
+        0,
+        0,
+        0,
+        3,
+        3,
+        3,
+        2,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        4,
+        3
+      ],
+      "avg_interest": 15.5,
+      "peak_interest": 100,
+      "trend_direction": "declining",
+      "data_points": 93,
+      "related_queries": {
+        "rising": [
+          {
+            "query": "nordvpn discount code",
+            "value": 1350
+          },
+          {
+            "query": "nordvpn review",
+            "value": 1300
+          }
+        ],
+        "top": [
+          {
+            "query": "headless commerce platform",
+            "value": 100
+          },
+          {
+            "query": "what is headless commerce",
+            "value": 89
+          },
+          {
+            "query": "nordvpn review",
+            "value": 50
+          },
+          {
+            "query": "nordvpn discount code",
+            "value": 44
+          }
+        ]
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-11-02T19:13:34.956669+00:00"
+    }
+  ]
+}
