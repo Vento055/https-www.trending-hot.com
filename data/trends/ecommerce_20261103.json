@@ -1,0 +1,471 @@
+{
+  "category": "ecommerce",
+  "fetch_date": "2026-11-03T16:52:59.915142+00:00",
+  "total_keywords": 5,
+  "source": "google_trends",
+  "data": [
+    {
+      "keyword": "shopify ecosystem",
+      "category": "ecommerce",
+      "google_category_id": 78,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        7,
+        5,
+        0,
+        6,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        4,
+        0,
+        0
+      ],
+      "avg_interest": 2.7,
+      "peak_interest": 100,
+      "trend_direction": "rising",
+      "data_points": 93,
+      "related_queries": {
+        "rising": [],
+        "top": []
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-11-03T16:52:37.756140+00:00"
+    },
+    {
+      "keyword": "social commerce",
+      "category": "ecommerce",
+      "google_category_id": 78,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [
+        15,
+        6,
+        7,
+        8,
+        5,
+        6,
+        4,
+        6,
+        5,
+        6,
+        5,
+        6,
+        3,
+        3,
+        6,
+        4,
+        4,
+        4,
+        5,
+        4,
+        3,
+        4,
+        4,
+        5,
+        5,
+        4,
+        3,
+        4,
+        4,
+        4
+      ],
+      "avg_interest": 13.3,
+      "peak_interest": 100,
+      "trend_direction": "declining",
+      "data_points": 93,
+      "related_queries": {
+        "rising": [
+          {
+            "query": "how to make sushi",
+            "value": 7850
+          },
+          {
+            "query": "sherman antitrust act",
+            "value": 600
+          },
+          {
+            "query": "social darwinism",
+            "value": 450
+          },
+          {
+            "query": "interstate commerce act",
+            "value": 450
+          },
+          {
+            "query": "cooking",
+            "value": 90
+          },
+          {
+            "query": "jobs",
+            "value": 60
+          },
+          {
+            "query": "commerce clause",
+            "value": 50
+          }
+        ],
+        "top": [
+          {
+            "query": "social media commerce",
+            "value": 100
+          },
+          {
+            "query": "what is social commerce",
+            "value": 83
+          },
+          {
+            "query": "social commerce trends",
+            "value": 80
+          },
+          {
+            "query": "tiktok social commerce",
+            "value": 68
+          },
+          {
+            "query": "social commerce marketing",
+            "value": 65
+          },
+          {
+            "query": "jobs",
+            "value": 45
+          },
+          {
+            "query": "social commerce meaning",
+            "value": 26
+          },
+          {
+            "query": "social commerce platform",
+            "value": 26
+          },
+          {
+            "query": "social commerce definition",
+            "value": 23
+          },
+          {
+            "query": "social media marketing",
+            "value": 23
+          }
+        ]
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-11-03T16:52:43.905889+00:00"
+    },
+    {
+      "keyword": "cross border ecommerce",
+      "category": "ecommerce",
+      "google_category_id": 78,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        4,
+        2,
+        3,
+        3,
+        2,
+        4,
+        3,
+        2,
+        3,
+        2,
+        3,
+        2,
+        3,
+        3,
+        2
+      ],
+      "avg_interest": 13.9,
+      "peak_interest": 100,
+      "trend_direction": "declining",
+      "data_points": 93,
+      "related_queries": {
+        "rising": [],
+        "top": []
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-11-03T16:52:49.089877+00:00"
+    },
+    {
+      "keyword": "bnpl",
+      "category": "ecommerce",
+      "google_category_id": 78,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [
+        26,
+        20,
+        25,
+        19,
+        19,
+        20,
+        17,
+        20,
+        18,
+        27,
+        22,
+        20,
+        19,
+        12,
+        18,
+        19,
+        20,
+        20,
+        20,
+        17,
+        15,
+        20,
+        20,
+        24,
+        22,
+        21,
+        18,
+        17,
+        21,
+        21
+      ],
+      "avg_interest": 27.2,
+      "peak_interest": 100,
+      "trend_direction": "declining",
+      "data_points": 93,
+      "related_queries": {
+        "rising": [
+          {
+            "query": "cpc itd bnpl booking hub",
+            "value": 350
+          },
+          {
+            "query": "bnpl adalah",
+            "value": 300
+          },
+          {
+            "query": "cpc itd bnpl",
+            "value": 250
+          },
+          {
+            "query": "bpc bnpl sp hub pbc kashmere gate",
+            "value": 200
+          },
+          {
+            "query": "bengaluru gpo bnpl centre",
+            "value": 150
+          },
+          {
+            "query": "bnpl yogayog bhavan bo bpc",
+            "value": 110
+          },
+          {
+            "query": "bnpl ahmedabad",
+            "value": 100
+          },
+          {
+            "query": "gardening",
+            "value": 90
+          },
+          {
+            "query": "bnpl shopee",
+            "value": 80
+          },
+          {
+            "query": "jpmcb bnpl",
+            "value": 80
+          }
+        ],
+        "top": [
+          {
+            "query": "what is bnpl",
+            "value": 100
+          },
+          {
+            "query": "bnpl payment",
+            "value": 63
+          },
+          {
+            "query": "bnpl meaning",
+            "value": 53
+          },
+          {
+            "query": "klarna",
+            "value": 52
+          },
+          {
+            "query": "buy now pay later",
+            "value": 42
+          },
+          {
+            "query": "bnpl uk",
+            "value": 39
+          },
+          {
+            "query": "bnpl malaysia",
+            "value": 37
+          },
+          {
+            "query": "paypal bnpl",
+            "value": 34
+          },
+          {
+            "query": "bnpl services",
+            "value": 34
+          },
+          {
+            "query": "bnpl loan",
+            "value": 33
+          }
+        ]
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-11-03T16:52:54.733400+00:00"
+    },
+    {
+      "keyword": "headless commerce",
+      "category": "ecommerce",
+      "google_category_id": 78,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [
+        7,
+        4,
+        7,
+        6,
+        5,
+        4,
+        0,
+        0,
+        0,
+        4,
+        3,
+        0,
+        6,
+        0,
+        0,
+        3,
+        3,
+        2,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3
+      ],
+      "avg_interest": 14.7,
+      "peak_interest": 100,
+      "trend_direction": "declining",
+      "data_points": 93,
+      "related_queries": {
+        "rising": [
+          {
+            "query": "surfshark login",
+            "value": 1800
+          },
+          {
+            "query": "nordvpn coupon code",
+            "value": 1400
+          },
+          {
+            "query": "nordvpn review",
+            "value": 1200
+          },
+          {
+            "query": "hostinger",
+            "value": 900
+          },
+          {
+            "query": "quince",
+            "value": 700
+          },
+          {
+            "query": "gate",
+            "value": 550
+          },
+          {
+            "query": "etsy",
+            "value": 550
+          }
+        ],
+        "top": [
+          {
+            "query": "etsy",
+            "value": 100
+          },
+          {
+            "query": "headless commerce platform",
+            "value": 99
+          },
+          {
+            "query": "gate",
+            "value": 99
+          },
+          {
+            "query": "hostinger",
+            "value": 89
+          },
+          {
+            "query": "what is headless commerce",
+            "value": 85
+          },
+          {
+            "query": "quince",
+            "value": 65
+          },
+          {
+            "query": "nordvpn review",
+            "value": 48
+          },
+          {
+            "query": "surfshark login",
+            "value": 48
+          },
+          {
+            "query": "nordvpn coupon code",
+            "value": 39
+          }
+        ]
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-11-03T16:52:59.914785+00:00"
+    }
+  ]
+}

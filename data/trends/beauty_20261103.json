@@ -1,0 +1,463 @@
+{
+  "category": "beauty",
+  "fetch_date": "2026-11-03T16:51:21.373234+00:00",
+  "total_keywords": 5,
+  "source": "google_trends",
+  "data": [
+    {
+      "keyword": "glass skin",
+      "category": "beauty",
+      "google_category_id": 44,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [
+        17,
+        17,
+        19,
+        33,
+        25,
+        21,
+        20,
+        17,
+        17,
+        15,
+        16,
+        18,
+        18,
+        18,
+        17,
+        14,
+        14,
+        14,
+        15,
+        15,
+        16,
+        14,
+        15,
+        15,
+        15,
+        16,
+        15,
+        16,
+        15,
+        13
+      ],
+      "avg_interest": 24.8,
+      "peak_interest": 100,
+      "trend_direction": "declining",
+      "data_points": 93,
+      "related_queries": {
+        "rising": [],
+        "top": []
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-11-03T16:50:59.721731+00:00"
+    },
+    {
+      "keyword": "nano hydroxyapatite toothpaste",
+      "category": "beauty",
+      "google_category_id": 44,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [],
+      "avg_interest": 0,
+      "peak_interest": 0,
+      "trend_direction": "error",
+      "data_points": 0,
+      "error": "The request failed: Google returned a response with code 429",
+      "related_queries": {
+        "rising": [
+          {
+            "query": "holydeer nano hydroxyapatite toothpaste",
+            "value": 180
+          },
+          {
+            "query": "davids toothpaste",
+            "value": 40
+          }
+        ],
+        "top": [
+          {
+            "query": "fluoride toothpaste",
+            "value": 100
+          },
+          {
+            "query": "toothpaste with hydroxyapatite",
+            "value": 92
+          },
+          {
+            "query": "boka toothpaste",
+            "value": 82
+          },
+          {
+            "query": "boka",
+            "value": 81
+          },
+          {
+            "query": "best toothpaste",
+            "value": 43
+          },
+          {
+            "query": "best hydroxyapatite toothpaste",
+            "value": 43
+          },
+          {
+            "query": "best nano hydroxyapatite toothpaste",
+            "value": 43
+          },
+          {
+            "query": "10 nano hydroxyapatite toothpaste",
+            "value": 26
+          },
+          {
+            "query": "what is nano hydroxyapatite",
+            "value": 26
+          },
+          {
+            "query": "davids toothpaste",
+            "value": 23
+          }
+        ]
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-11-03T16:51:05.412381+00:00"
+    },
+    {
+      "keyword": "beet gummies",
+      "category": "beauty",
+      "google_category_id": 44,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [
+        54,
+        0,
+        0,
+        53,
+        73,
+        0,
+        50,
+        47,
+        76,
+        58,
+        49,
+        0,
+        84,
+        62,
+        61,
+        61,
+        56,
+        54,
+        54,
+        45,
+        47,
+        45,
+        47,
+        51,
+        52,
+        45,
+        38,
+        43,
+        48,
+        44
+      ],
+      "avg_interest": 45.6,
+      "peak_interest": 100,
+      "trend_direction": "rising",
+      "data_points": 93,
+      "related_queries": {
+        "rising": [
+          {
+            "query": "beetroot benefits for male",
+            "value": 39850
+          },
+          {
+            "query": "beet root gummies benefits",
+            "value": 100
+          },
+          {
+            "query": "beet gummies walmart",
+            "value": 60
+          },
+          {
+            "query": "beet gummies benefits",
+            "value": 60
+          },
+          {
+            "query": "beetroot gummies",
+            "value": 50
+          }
+        ],
+        "top": [
+          {
+            "query": "beet root gummies",
+            "value": 100
+          },
+          {
+            "query": "beet root",
+            "value": 100
+          },
+          {
+            "query": "beet gummies benefits",
+            "value": 16
+          },
+          {
+            "query": "nitric oxide",
+            "value": 15
+          },
+          {
+            "query": "beetroot gummies",
+            "value": 14
+          },
+          {
+            "query": "beetroot",
+            "value": 13
+          },
+          {
+            "query": "beet root gummies benefits",
+            "value": 11
+          },
+          {
+            "query": "beets",
+            "value": 11
+          },
+          {
+            "query": "beet juice",
+            "value": 9
+          },
+          {
+            "query": "goli gummies",
+            "value": 9
+          }
+        ]
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-11-03T16:51:10.383116+00:00"
+    },
+    {
+      "keyword": "toe spacers",
+      "category": "beauty",
+      "google_category_id": 44,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [
+        34,
+        31,
+        47,
+        40,
+        35,
+        28,
+        17,
+        33,
+        35,
+        32,
+        27,
+        20,
+        28,
+        27,
+        25,
+        27,
+        26,
+        27,
+        27,
+        26,
+        32,
+        34,
+        33,
+        28,
+        25,
+        28,
+        24,
+        30,
+        29,
+        25
+      ],
+      "avg_interest": 34.6,
+      "peak_interest": 100,
+      "trend_direction": "stable",
+      "data_points": 93,
+      "related_queries": {
+        "rising": [
+          {
+            "query": "pedifix visco-gel toe spacers",
+            "value": 100
+          },
+          {
+            "query": "toe separators",
+            "value": 60
+          }
+        ],
+        "top": [
+          {
+            "query": "bunions",
+            "value": 100
+          },
+          {
+            "query": "bunion toe spacers",
+            "value": 91
+          },
+          {
+            "query": "bunion",
+            "value": 91
+          },
+          {
+            "query": "gel toe spacers",
+            "value": 86
+          },
+          {
+            "query": "best toe spacers",
+            "value": 76
+          },
+          {
+            "query": "silicone toe spacers",
+            "value": 73
+          },
+          {
+            "query": "toe separators",
+            "value": 71
+          },
+          {
+            "query": "toe spacers for bunions",
+            "value": 69
+          },
+          {
+            "query": "amazon toe spacers",
+            "value": 67
+          },
+          {
+            "query": "correct toe spacers",
+            "value": 60
+          }
+        ]
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-11-03T16:51:15.431318+00:00"
+    },
+    {
+      "keyword": "scalp serum",
+      "category": "beauty",
+      "google_category_id": 44,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [
+        29,
+        33,
+        30,
+        31,
+        27,
+        32,
+        32,
+        32,
+        29,
+        32,
+        28,
+        26,
+        30,
+        33,
+        29,
+        25,
+        24,
+        26,
+        28,
+        29,
+        31,
+        27,
+        27,
+        26,
+        26,
+        27,
+        30,
+        30,
+        33,
+        28
+      ],
+      "avg_interest": 39.1,
+      "peak_interest": 100,
+      "trend_direction": "declining",
+      "data_points": 93,
+      "related_queries": {
+        "rising": [
+          {
+            "query": "aromatica rosemary pdrn scalp serum",
+            "value": 500
+          },
+          {
+            "query": "loreal oil erasing scalp serum",
+            "value": 200
+          },
+          {
+            "query": "k18 scalp serum",
+            "value": 130
+          },
+          {
+            "query": "rosemary pdrn scalp serum",
+            "value": 130
+          },
+          {
+            "query": "nécessaire the scalp serum",
+            "value": 100
+          },
+          {
+            "query": "k18",
+            "value": 100
+          },
+          {
+            "query": "loreal scalp serum",
+            "value": 70
+          },
+          {
+            "query": "deoxyribose scalp serum",
+            "value": 60
+          },
+          {
+            "query": "deoxyribose",
+            "value": 60
+          }
+        ],
+        "top": [
+          {
+            "query": "hair scalp serum",
+            "value": 100
+          },
+          {
+            "query": "hair serum",
+            "value": 99
+          },
+          {
+            "query": "hair growth serum",
+            "value": 25
+          },
+          {
+            "query": "hair growth scalp serum",
+            "value": 25
+          },
+          {
+            "query": "best scalp serum",
+            "value": 17
+          },
+          {
+            "query": "dry scalp serum",
+            "value": 15
+          },
+          {
+            "query": "scalp serum for hair growth",
+            "value": 14
+          },
+          {
+            "query": "ordinary scalp serum",
+            "value": 11
+          },
+          {
+            "query": "scalp serum for dry scalp",
+            "value": 10
+          },
+          {
+            "query": "kerastase",
+            "value": 9
+          }
+        ]
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-11-03T16:51:21.372930+00:00"
+    }
+  ]
+}
