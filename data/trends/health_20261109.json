@@ -1,0 +1,258 @@
+{
+  "category": "health",
+  "fetch_date": "2026-11-09T19:33:17.508903+00:00",
+  "total_keywords": 5,
+  "source": "google_trends",
+  "data": [
+    {
+      "keyword": "nano hydroxyapatite",
+      "category": "health",
+      "google_category_id": 45,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [
+        25,
+        39,
+        31,
+        43,
+        32,
+        27,
+        38,
+        36,
+        36,
+        38,
+        40,
+        42,
+        33,
+        36,
+        37,
+        33,
+        36,
+        33,
+        33,
+        31,
+        27,
+        30,
+        33,
+        30,
+        31,
+        32,
+        34,
+        34,
+        34,
+        29
+      ],
+      "avg_interest": 42.0,
+      "peak_interest": 100,
+      "trend_direction": "declining",
+      "data_points": 93,
+      "related_queries": {
+        "rising": [],
+        "top": [
+          {
+            "query": "nano hydroxyapatite toothpaste",
+            "value": 100
+          },
+          {
+            "query": "hydroxyapatite toothpaste",
+            "value": 100
+          },
+          {
+            "query": "boka",
+            "value": 20
+          },
+          {
+            "query": "boka toothpaste",
+            "value": 18
+          },
+          {
+            "query": "best nano hydroxyapatite toothpaste",
+            "value": 9
+          },
+          {
+            "query": "best toothpaste",
+            "value": 9
+          },
+          {
+            "query": "best hydroxyapatite toothpaste",
+            "value": 9
+          },
+          {
+            "query": "what is nano hydroxyapatite",
+            "value": 9
+          },
+          {
+            "query": "10 nano hydroxyapatite",
+            "value": 7
+          },
+          {
+            "query": "10 nano hydroxyapatite toothpaste",
+            "value": 6
+          }
+        ]
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-11-09T19:32:58.459340+00:00"
+    },
+    {
+      "keyword": "beet gummies",
+      "category": "health",
+      "google_category_id": 45,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [
+        65,
+        0,
+        79,
+        44,
+        0,
+        45,
+        98,
+        0,
+        61,
+        64,
+        49,
+        49,
+        77,
+        76,
+        0,
+        45,
+        47,
+        50,
+        53,
+        45,
+        39,
+        42,
+        48,
+        52,
+        51,
+        48,
+        50,
+        46,
+        53,
+        43
+      ],
+      "avg_interest": 46.4,
+      "peak_interest": 100,
+      "trend_direction": "rising",
+      "data_points": 93,
+      "related_queries": {
+        "rising": [],
+        "top": []
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-11-09T19:33:02.966019+00:00"
+    },
+    {
+      "keyword": "toe spacers",
+      "category": "health",
+      "google_category_id": 45,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [],
+      "avg_interest": 0,
+      "peak_interest": 0,
+      "trend_direction": "error",
+      "data_points": 0,
+      "error": "The request failed: Google returned a response with code 429",
+      "related_queries": {
+        "rising": [
+          {
+            "query": "pedifix visco-gel toe spacers",
+            "value": 100
+          },
+          {
+            "query": "toe separators",
+            "value": 60
+          },
+          {
+            "query": "pedifix toe spacers",
+            "value": 50
+          }
+        ],
+        "top": [
+          {
+            "query": "bunions",
+            "value": 100
+          },
+          {
+            "query": "bunion toe spacers",
+            "value": 92
+          },
+          {
+            "query": "bunion",
+            "value": 92
+          },
+          {
+            "query": "toe shoes",
+            "value": 86
+          },
+          {
+            "query": "gel toe spacers",
+            "value": 86
+          },
+          {
+            "query": "best toe spacers",
+            "value": 78
+          },
+          {
+            "query": "silicone toe spacers",
+            "value": 77
+          },
+          {
+            "query": "toe separators",
+            "value": 71
+          },
+          {
+            "query": "toe spacers for bunions",
+            "value": 70
+          },
+          {
+            "query": "toe spacers amazon",
+            "value": 66
+          }
+        ]
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-11-09T19:33:07.865741+00:00"
+    },
+    {
+      "keyword": "magnesium spray",
+      "category": "health",
+      "google_category_id": 45,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [],
+      "avg_interest": 0,
+      "peak_interest": 0,
+      "trend_direction": "error",
+      "data_points": 0,
+      "error": "The request failed: Google returned a response with code 429",
+      "related_queries": {
+        "rising": [],
+        "top": []
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-11-09T19:33:12.529055+00:00"
+    },
+    {
+      "keyword": "creatine gummies",
+      "category": "health",
+      "google_category_id": 45,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [],
+      "avg_interest": 0,
+      "peak_interest": 0,
+      "trend_direction": "error",
+      "data_points": 0,
+      "error": "The request failed: Google returned a response with code 429",
+      "related_queries": {
+        "rising": [],
+        "top": []
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-11-09T19:33:17.508463+00:00"
+    }
+  ]
+}
