@@ -1,0 +1,447 @@
+{
+  "category": "tech",
+  "fetch_date": "2026-11-11T16:54:02.734596+00:00",
+  "total_keywords": 5,
+  "source": "google_trends",
+  "data": [
+    {
+      "keyword": "ai coding agents",
+      "category": "tech",
+      "google_category_id": 5,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [
+        8,
+        13,
+        10,
+        17,
+        9,
+        7,
+        12,
+        8,
+        10,
+        6,
+        9,
+        11,
+        8,
+        4,
+        9,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        7,
+        8,
+        7,
+        7
+      ],
+      "avg_interest": 20.2,
+      "peak_interest": 100,
+      "trend_direction": "declining",
+      "data_points": 93,
+      "related_queries": {
+        "rising": [
+          {
+            "query": "byteask c++ ai coding agents",
+            "value": 47100
+          },
+          {
+            "query": "cheapest flights to tokyo",
+            "value": 32050
+          },
+          {
+            "query": "best time to visit maldives",
+            "value": 23650
+          },
+          {
+            "query": "how to make sushi",
+            "value": 22300
+          },
+          {
+            "query": "how to bake a cake",
+            "value": 14600
+          },
+          {
+            "query": "best laptop for work",
+            "value": 800
+          },
+          {
+            "query": "top tourist attractions in paris",
+            "value": 550
+          }
+        ],
+        "top": [
+          {
+            "query": "best ai agents",
+            "value": 100
+          },
+          {
+            "query": "best coding agents",
+            "value": 100
+          },
+          {
+            "query": "best ai coding agents",
+            "value": 100
+          },
+          {
+            "query": "claude code",
+            "value": 53
+          },
+          {
+            "query": "free coding agents",
+            "value": 49
+          },
+          {
+            "query": "codex",
+            "value": 40
+          },
+          {
+            "query": "cursor ai",
+            "value": 34
+          },
+          {
+            "query": "cursor",
+            "value": 34
+          },
+          {
+            "query": "openai",
+            "value": 27
+          },
+          {
+            "query": "vibe coding",
+            "value": 21
+          }
+        ]
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-11-11T16:53:42.783262+00:00"
+    },
+    {
+      "keyword": "webgpu",
+      "category": "tech",
+      "google_category_id": 5,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [
+        18,
+        22,
+        19,
+        22,
+        14,
+        15,
+        14,
+        17,
+        24,
+        24,
+        20,
+        22,
+        20,
+        28,
+        25,
+        26,
+        24,
+        24,
+        22,
+        20,
+        19,
+        18,
+        17,
+        19,
+        18,
+        17,
+        15,
+        16,
+        14,
+        13
+      ],
+      "avg_interest": 22.9,
+      "peak_interest": 100,
+      "trend_direction": "stable",
+      "data_points": 93,
+      "related_queries": {
+        "rising": [
+          {
+            "query": "azeroth survivors",
+            "value": 109850
+          },
+          {
+            "query": "webgpu is switched on in this browser but it found no usable graphics adapter. check that hardware acceleration is on in the browser settings and the graphics driver is up to date. remote desktop and virtual machines often have no gpu for the browser.",
+            "value": 36000
+          },
+          {
+            "query": "cyberpunk 2077 browser",
+            "value": 21900
+          },
+          {
+            "query": "your browser does not support webgpu",
+            "value": 6100
+          },
+          {
+            "query": "azeroth survivors game",
+            "value": 6050
+          }
+        ],
+        "top": [
+          {
+            "query": "webgpu support",
+            "value": 100
+          },
+          {
+            "query": "webgl",
+            "value": 95
+          },
+          {
+            "query": "webgpu chrome",
+            "value": 83
+          },
+          {
+            "query": "webgpu github",
+            "value": 79
+          },
+          {
+            "query": "what is webgpu",
+            "value": 56
+          },
+          {
+            "query": "firefox webgpu",
+            "value": 51
+          },
+          {
+            "query": "three.js",
+            "value": 41
+          },
+          {
+            "query": "webgpu api",
+            "value": 39
+          },
+          {
+            "query": "webgpu test",
+            "value": 33
+          },
+          {
+            "query": "wgpu",
+            "value": 33
+          }
+        ]
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-11-11T16:53:47.923439+00:00"
+    },
+    {
+      "keyword": "rust programming 2026",
+      "category": "tech",
+      "google_category_id": 5,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        2,
+        3,
+        2,
+        2,
+        2,
+        2,
+        2,
+        3,
+        3,
+        3,
+        2,
+        3,
+        1,
+        3
+      ],
+      "avg_interest": 5.3,
+      "peak_interest": 100,
+      "trend_direction": "declining",
+      "data_points": 93,
+      "related_queries": {
+        "rising": [],
+        "top": []
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-11-11T16:53:52.904735+00:00"
+    },
+    {
+      "keyword": "htmx",
+      "category": "tech",
+      "google_category_id": 5,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [
+        28,
+        27,
+        25,
+        38,
+        0,
+        23,
+        24,
+        24,
+        26,
+        27,
+        33,
+        14,
+        0,
+        25,
+        0,
+        24,
+        25,
+        26,
+        18,
+        23,
+        27,
+        26,
+        24,
+        26,
+        22,
+        15,
+        16,
+        21,
+        22,
+        18
+      ],
+      "avg_interest": 33.7,
+      "peak_interest": 100,
+      "trend_direction": "declining",
+      "data_points": 93,
+      "related_queries": {
+        "rising": [
+          {
+            "query": "pico css",
+            "value": 28650
+          },
+          {
+            "query": "htmx vs html",
+            "value": 150
+          },
+          {
+            "query": "htmx golang",
+            "value": 110
+          },
+          {
+            "query": "htmx 4.0",
+            "value": 80
+          },
+          {
+            "query": "rust htmx",
+            "value": 60
+          }
+        ],
+        "top": [
+          {
+            "query": "github htmx",
+            "value": 100
+          },
+          {
+            "query": "htmx documentation",
+            "value": 79
+          },
+          {
+            "query": "what is htmx",
+            "value": 68
+          },
+          {
+            "query": "go htmx",
+            "value": 64
+          },
+          {
+            "query": "django htmx",
+            "value": 63
+          },
+          {
+            "query": "htmx docs",
+            "value": 52
+          },
+          {
+            "query": "react",
+            "value": 49
+          },
+          {
+            "query": "htmx python",
+            "value": 38
+          },
+          {
+            "query": "htmx golang",
+            "value": 36
+          },
+          {
+            "query": "htmx example",
+            "value": 29
+          }
+        ]
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-11-11T16:53:58.033491+00:00"
+    },
+    {
+      "keyword": "notion plugins",
+      "category": "tech",
+      "google_category_id": 5,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        57,
+        88,
+        42,
+        60,
+        72,
+        77,
+        70,
+        73,
+        100,
+        59,
+        62,
+        55,
+        54,
+        52,
+        72
+      ],
+      "avg_interest": 10.7,
+      "peak_interest": 100,
+      "trend_direction": "rising",
+      "data_points": 93,
+      "related_queries": {
+        "rising": [],
+        "top": []
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-11-11T16:54:02.734183+00:00"
+    }
+  ]
+}
