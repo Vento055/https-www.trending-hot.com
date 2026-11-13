@@ -1,0 +1,410 @@
+{
+  "category": "tech",
+  "fetch_date": "2026-11-13T16:58:47.723332+00:00",
+  "total_keywords": 5,
+  "source": "google_trends",
+  "data": [
+    {
+      "keyword": "ai coding agents",
+      "category": "tech",
+      "google_category_id": 5,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [
+        9,
+        17,
+        10,
+        8,
+        12,
+        8,
+        8,
+        6,
+        9,
+        11,
+        8,
+        6,
+        9,
+        10,
+        9,
+        9,
+        8,
+        9,
+        9,
+        8,
+        8,
+        8,
+        9,
+        8,
+        8,
+        8,
+        7,
+        8,
+        8,
+        8
+      ],
+      "avg_interest": 20.5,
+      "peak_interest": 100,
+      "trend_direction": "declining",
+      "data_points": 93,
+      "related_queries": {
+        "rising": [],
+        "top": []
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-11-13T16:58:24.703320+00:00"
+    },
+    {
+      "keyword": "webgpu",
+      "category": "tech",
+      "google_category_id": 5,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [
+        18,
+        19,
+        13,
+        13,
+        15,
+        15,
+        22,
+        21,
+        19,
+        21,
+        20,
+        24,
+        23,
+        21,
+        25,
+        22,
+        20,
+        19,
+        17,
+        16,
+        16,
+        16,
+        16,
+        15,
+        13,
+        15,
+        13,
+        14,
+        13,
+        12
+      ],
+      "avg_interest": 20.8,
+      "peak_interest": 100,
+      "trend_direction": "stable",
+      "data_points": 93,
+      "related_queries": {
+        "rising": [
+          {
+            "query": "azeroth survivors",
+            "value": 124100
+          },
+          {
+            "query": "webgpu is switched on in this browser but it found no usable graphics adapter. check that hardware acceleration is on in the browser settings and the graphics driver is up to date. remote desktop and virtual machines often have no gpu for the browser.",
+            "value": 56650
+          },
+          {
+            "query": "nfsu2",
+            "value": 37900
+          },
+          {
+            "query": "azeroth survivors download",
+            "value": 25400
+          },
+          {
+            "query": "azeroth survivor",
+            "value": 12350
+          },
+          {
+            "query": "resident evil outbreak",
+            "value": 10950
+          },
+          {
+            "query": "nfsu2 xy",
+            "value": 8550
+          },
+          {
+            "query": "azeroth survivors game",
+            "value": 4400
+          },
+          {
+            "query": "your browser does not support webgpu",
+            "value": 3050
+          },
+          {
+            "query": "firefox",
+            "value": 50
+          }
+        ],
+        "top": [
+          {
+            "query": "webgpu support",
+            "value": 100
+          },
+          {
+            "query": "chrome",
+            "value": 87
+          },
+          {
+            "query": "chrome webgpu",
+            "value": 87
+          },
+          {
+            "query": "webgpu github",
+            "value": 80
+          },
+          {
+            "query": "what is webgpu",
+            "value": 55
+          },
+          {
+            "query": "firefox",
+            "value": 54
+          },
+          {
+            "query": "webgpu firefox",
+            "value": 54
+          },
+          {
+            "query": "three.js",
+            "value": 42
+          },
+          {
+            "query": "webgpu api",
+            "value": 39
+          },
+          {
+            "query": "webgpu test",
+            "value": 33
+          }
+        ]
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-11-13T16:58:30.414414+00:00"
+    },
+    {
+      "keyword": "rust programming 2026",
+      "category": "tech",
+      "google_category_id": 5,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        3,
+        3,
+        3,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "avg_interest": 5.3,
+      "peak_interest": 100,
+      "trend_direction": "declining",
+      "data_points": 93,
+      "related_queries": {
+        "rising": [],
+        "top": []
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-11-13T16:58:35.883029+00:00"
+    },
+    {
+      "keyword": "htmx",
+      "category": "tech",
+      "google_category_id": 5,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [
+        16,
+        21,
+        0,
+        23,
+        21,
+        16,
+        22,
+        21,
+        24,
+        15,
+        0,
+        22,
+        19,
+        21,
+        34,
+        22,
+        15,
+        17,
+        22,
+        22,
+        20,
+        21,
+        18,
+        12,
+        13,
+        18,
+        18,
+        16,
+        16,
+        16
+      ],
+      "avg_interest": 27.8,
+      "peak_interest": 100,
+      "trend_direction": "declining",
+      "data_points": 93,
+      "related_queries": {
+        "rising": [
+          {
+            "query": "htmx11",
+            "value": 10950
+          },
+          {
+            "query": "htmx это",
+            "value": 150
+          },
+          {
+            "query": "htmx 4.0",
+            "value": 130
+          },
+          {
+            "query": "golang",
+            "value": 100
+          },
+          {
+            "query": "golang htmx",
+            "value": 90
+          },
+          {
+            "query": "htmx vs react",
+            "value": 70
+          },
+          {
+            "query": "rust htmx",
+            "value": 40
+          }
+        ],
+        "top": [
+          {
+            "query": "github htmx",
+            "value": 100
+          },
+          {
+            "query": "htmx documentation",
+            "value": 79
+          },
+          {
+            "query": "what is htmx",
+            "value": 69
+          },
+          {
+            "query": "django",
+            "value": 64
+          },
+          {
+            "query": "go htmx",
+            "value": 63
+          },
+          {
+            "query": "htmx django",
+            "value": 63
+          },
+          {
+            "query": "react",
+            "value": 52
+          },
+          {
+            "query": "htmx docs",
+            "value": 49
+          },
+          {
+            "query": "htmx python",
+            "value": 43
+          },
+          {
+            "query": "golang",
+            "value": 37
+          }
+        ]
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-11-13T16:58:41.376980+00:00"
+    },
+    {
+      "keyword": "notion plugins",
+      "category": "tech",
+      "google_category_id": 5,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        40,
+        65,
+        73,
+        54,
+        47,
+        100,
+        71,
+        70,
+        46,
+        64,
+        64,
+        85,
+        46,
+        0
+      ],
+      "avg_interest": 8.9,
+      "peak_interest": 100,
+      "trend_direction": "rising",
+      "data_points": 93,
+      "related_queries": {
+        "rising": [],
+        "top": [
+          {
+            "query": "obsidian plugins",
+            "value": 100
+          }
+        ]
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-11-13T16:58:47.722988+00:00"
+    }
+  ]
+}
