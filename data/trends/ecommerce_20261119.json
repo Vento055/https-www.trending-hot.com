@@ -1,0 +1,275 @@
+{
+  "category": "ecommerce",
+  "fetch_date": "2026-11-19T18:00:41.048929+00:00",
+  "total_keywords": 5,
+  "source": "google_trends",
+  "data": [
+    {
+      "keyword": "shopify ecosystem",
+      "category": "ecommerce",
+      "google_category_id": 78,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        5,
+        0,
+        5,
+        0
+      ],
+      "avg_interest": 3.8,
+      "peak_interest": 100,
+      "trend_direction": "declining",
+      "data_points": 93,
+      "related_queries": {
+        "rising": [],
+        "top": []
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-11-19T18:00:21.241549+00:00"
+    },
+    {
+      "keyword": "social commerce",
+      "category": "ecommerce",
+      "google_category_id": 78,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [
+        4,
+        5,
+        6,
+        5,
+        5,
+        5,
+        5,
+        6,
+        6,
+        4,
+        3,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        3,
+        4,
+        5,
+        4,
+        3,
+        4,
+        4,
+        3,
+        3,
+        4,
+        4,
+        4,
+        4
+      ],
+      "avg_interest": 11.7,
+      "peak_interest": 100,
+      "trend_direction": "declining",
+      "data_points": 93,
+      "related_queries": {
+        "rising": [
+          {
+            "query": "hc andersen født",
+            "value": 14650
+          },
+          {
+            "query": "best budget smartphone",
+            "value": 10900
+          },
+          {
+            "query": "interstate commerce act",
+            "value": 850
+          },
+          {
+            "query": "digital side hustles",
+            "value": 600
+          },
+          {
+            "query": "tech gadgets 2025",
+            "value": 500
+          },
+          {
+            "query": "home fitness trends",
+            "value": 350
+          },
+          {
+            "query": "ai video generator",
+            "value": 250
+          },
+          {
+            "query": "influencer marketing trends",
+            "value": 160
+          },
+          {
+            "query": "what is social commerce",
+            "value": 90
+          },
+          {
+            "query": "social commerce platforms",
+            "value": 50
+          }
+        ],
+        "top": [
+          {
+            "query": "social media commerce",
+            "value": 100
+          },
+          {
+            "query": "what is social commerce",
+            "value": 94
+          },
+          {
+            "query": "social commerce trends",
+            "value": 77
+          },
+          {
+            "query": "social commerce marketing",
+            "value": 70
+          },
+          {
+            "query": "social security",
+            "value": 51
+          },
+          {
+            "query": "social commerce meaning",
+            "value": 27
+          },
+          {
+            "query": "social media marketing",
+            "value": 25
+          },
+          {
+            "query": "social commerce platform",
+            "value": 25
+          },
+          {
+            "query": "social commerce platforms",
+            "value": 23
+          },
+          {
+            "query": "social commerce definition",
+            "value": 22
+          }
+        ]
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-11-19T18:00:27.344513+00:00"
+    },
+    {
+      "keyword": "cross border ecommerce",
+      "category": "ecommerce",
+      "google_category_id": 78,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        4,
+        2,
+        3,
+        2,
+        3,
+        2,
+        2,
+        2,
+        3,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3
+      ],
+      "avg_interest": 8.5,
+      "peak_interest": 100,
+      "trend_direction": "declining",
+      "data_points": 93,
+      "related_queries": {
+        "rising": [],
+        "top": []
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-11-19T18:00:31.975316+00:00"
+    },
+    {
+      "keyword": "bnpl",
+      "category": "ecommerce",
+      "google_category_id": 78,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [],
+      "avg_interest": 0,
+      "peak_interest": 0,
+      "trend_direction": "error",
+      "data_points": 0,
+      "error": "The request failed: Google returned a response with code 429",
+      "related_queries": {
+        "rising": [],
+        "top": []
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-11-19T18:00:36.450527+00:00"
+    },
+    {
+      "keyword": "headless commerce",
+      "category": "ecommerce",
+      "google_category_id": 78,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [],
+      "avg_interest": 0,
+      "peak_interest": 0,
+      "trend_direction": "error",
+      "data_points": 0,
+      "error": "The request failed: Google returned a response with code 429",
+      "related_queries": {
+        "rising": [],
+        "top": []
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-11-19T18:00:41.048564+00:00"
+    }
+  ]
+}
