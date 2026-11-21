@@ -1,0 +1,216 @@
+{
+  "category": "health",
+  "fetch_date": "2026-11-21T16:40:27.357282+00:00",
+  "total_keywords": 5,
+  "source": "google_trends",
+  "data": [
+    {
+      "keyword": "nano hydroxyapatite",
+      "category": "health",
+      "google_category_id": 45,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [
+        32,
+        37,
+        34,
+        27,
+        39,
+        37,
+        37,
+        33,
+        30,
+        24,
+        34,
+        30,
+        29,
+        31,
+        28,
+        29,
+        28,
+        33,
+        32,
+        28,
+        27,
+        26,
+        27,
+        31,
+        32,
+        32,
+        32,
+        32,
+        27,
+        23
+      ],
+      "avg_interest": 36.2,
+      "peak_interest": 100,
+      "trend_direction": "declining",
+      "data_points": 93,
+      "related_queries": {
+        "rising": [],
+        "top": [
+          {
+            "query": "nano hydroxyapatite toothpaste",
+            "value": 100
+          },
+          {
+            "query": "hydroxyapatite toothpaste",
+            "value": 100
+          },
+          {
+            "query": "boka nano hydroxyapatite toothpaste",
+            "value": 18
+          },
+          {
+            "query": "best nano hydroxyapatite toothpaste",
+            "value": 9
+          },
+          {
+            "query": "what is nano hydroxyapatite",
+            "value": 8
+          },
+          {
+            "query": "nano hydroxyapatite vs hydroxyapatite",
+            "value": 8
+          },
+          {
+            "query": "10 nano hydroxyapatite",
+            "value": 7
+          },
+          {
+            "query": "10 nano hydroxyapatite toothpaste",
+            "value": 6
+          },
+          {
+            "query": "mouthology nano hydroxyapatite toothpaste",
+            "value": 6
+          },
+          {
+            "query": "davids nano hydroxyapatite toothpaste",
+            "value": 4
+          }
+        ]
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-11-21T16:40:06.411804+00:00"
+    },
+    {
+      "keyword": "beet gummies",
+      "category": "health",
+      "google_category_id": 45,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [],
+      "avg_interest": 0,
+      "peak_interest": 0,
+      "trend_direction": "error",
+      "data_points": 0,
+      "error": "The request failed: Google returned a response with code 429",
+      "related_queries": {
+        "rising": [
+          {
+            "query": "beet gummies walmart",
+            "value": 70
+          },
+          {
+            "query": "beet root gummies benefits",
+            "value": 50
+          },
+          {
+            "query": "beet gummies benefits",
+            "value": 40
+          }
+        ],
+        "top": [
+          {
+            "query": "beet root gummies",
+            "value": 100
+          },
+          {
+            "query": "beet gummies benefits",
+            "value": 15
+          },
+          {
+            "query": "beet root gummies benefits",
+            "value": 11
+          },
+          {
+            "query": "goli beet gummies",
+            "value": 8
+          },
+          {
+            "query": "super beet gummies",
+            "value": 5
+          },
+          {
+            "query": "beet gummies for blood pressure",
+            "value": 5
+          },
+          {
+            "query": "beet gummies walmart",
+            "value": 3
+          }
+        ]
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-11-21T16:40:12.179202+00:00"
+    },
+    {
+      "keyword": "toe spacers",
+      "category": "health",
+      "google_category_id": 45,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [],
+      "avg_interest": 0,
+      "peak_interest": 0,
+      "trend_direction": "error",
+      "data_points": 0,
+      "error": "The request failed: Google returned a response with code 429",
+      "related_queries": {
+        "rising": [],
+        "top": []
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-11-21T16:40:17.143946+00:00"
+    },
+    {
+      "keyword": "magnesium spray",
+      "category": "health",
+      "google_category_id": 45,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [],
+      "avg_interest": 0,
+      "peak_interest": 0,
+      "trend_direction": "error",
+      "data_points": 0,
+      "error": "The request failed: Google returned a response with code 429",
+      "related_queries": {
+        "rising": [],
+        "top": []
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-11-21T16:40:22.271441+00:00"
+    },
+    {
+      "keyword": "creatine gummies",
+      "category": "health",
+      "google_category_id": 45,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [],
+      "avg_interest": 0,
+      "peak_interest": 0,
+      "trend_direction": "error",
+      "data_points": 0,
+      "error": "The request failed: Google returned a response with code 429",
+      "related_queries": {
+        "rising": [],
+        "top": []
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-11-21T16:40:27.356946+00:00"
+    }
+  ]
+}
