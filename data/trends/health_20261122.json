@@ -1,0 +1,185 @@
+{
+  "category": "health",
+  "fetch_date": "2026-11-22T16:56:59.247698+00:00",
+  "total_keywords": 5,
+  "source": "google_trends",
+  "data": [
+    {
+      "keyword": "nano hydroxyapatite",
+      "category": "health",
+      "google_category_id": 45,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [],
+      "avg_interest": 0,
+      "peak_interest": 0,
+      "trend_direction": "error",
+      "data_points": 0,
+      "error": "The request failed: Google returned a response with code 429",
+      "related_queries": {
+        "rising": [],
+        "top": []
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-11-22T16:56:39.436318+00:00"
+    },
+    {
+      "keyword": "beet gummies",
+      "category": "health",
+      "google_category_id": 45,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [],
+      "avg_interest": 0,
+      "peak_interest": 0,
+      "trend_direction": "error",
+      "data_points": 0,
+      "error": "The request failed: Google returned a response with code 429",
+      "related_queries": {
+        "rising": [],
+        "top": []
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-11-22T16:56:44.147284+00:00"
+    },
+    {
+      "keyword": "toe spacers",
+      "category": "health",
+      "google_category_id": 45,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [],
+      "avg_interest": 0,
+      "peak_interest": 0,
+      "trend_direction": "error",
+      "data_points": 0,
+      "error": "The request failed: Google returned a response with code 429",
+      "related_queries": {
+        "rising": [],
+        "top": []
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-11-22T16:56:48.811249+00:00"
+    },
+    {
+      "keyword": "magnesium spray",
+      "category": "health",
+      "google_category_id": 45,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [],
+      "avg_interest": 0,
+      "peak_interest": 0,
+      "trend_direction": "error",
+      "data_points": 0,
+      "error": "The request failed: Google returned a response with code 429",
+      "related_queries": {
+        "rising": [
+          {
+            "query": "dr teal's magnesium spray canada",
+            "value": 800
+          },
+          {
+            "query": "dr teal magnesium spray",
+            "value": 600
+          },
+          {
+            "query": "dr teals",
+            "value": 400
+          },
+          {
+            "query": "teals magnesium spray",
+            "value": 400
+          },
+          {
+            "query": "magnesium foot spray for sleep",
+            "value": 250
+          },
+          {
+            "query": "dr teal's magnesium spray reviews",
+            "value": 190
+          },
+          {
+            "query": "betteryou magnesium oil body spray",
+            "value": 170
+          },
+          {
+            "query": "dr teal's magnesium spray",
+            "value": 120
+          },
+          {
+            "query": "what does magnesium spray do for the body",
+            "value": 90
+          },
+          {
+            "query": "magnesium spray on feet",
+            "value": 60
+          }
+        ],
+        "top": [
+          {
+            "query": "magnesium oil spray",
+            "value": 100
+          },
+          {
+            "query": "magnesium oil",
+            "value": 100
+          },
+          {
+            "query": "sleep spray",
+            "value": 70
+          },
+          {
+            "query": "magnesium spray sleep",
+            "value": 70
+          },
+          {
+            "query": "magnesium sleep",
+            "value": 69
+          },
+          {
+            "query": "teals magnesium spray",
+            "value": 68
+          },
+          {
+            "query": "dr teals",
+            "value": 63
+          },
+          {
+            "query": "magnesium glycinate",
+            "value": 48
+          },
+          {
+            "query": "magnesium glycinate spray",
+            "value": 48
+          },
+          {
+            "query": "magnesium body spray",
+            "value": 47
+          }
+        ]
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-11-22T16:56:54.457215+00:00"
+    },
+    {
+      "keyword": "creatine gummies",
+      "category": "health",
+      "google_category_id": 45,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [],
+      "avg_interest": 0,
+      "peak_interest": 0,
+      "trend_direction": "error",
+      "data_points": 0,
+      "error": "The request failed: Google returned a response with code 429",
+      "related_queries": {
+        "rising": [],
+        "top": []
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-11-22T16:56:59.247305+00:00"
+    }
+  ]
+}
