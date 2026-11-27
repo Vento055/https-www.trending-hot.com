@@ -1,0 +1,382 @@
+{
+  "category": "tech",
+  "fetch_date": "2026-11-27T18:42:40.150776+00:00",
+  "total_keywords": 5,
+  "source": "google_trends",
+  "data": [
+    {
+      "keyword": "ai coding agents",
+      "category": "tech",
+      "google_category_id": 5,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [
+        9,
+        14,
+        10,
+        12,
+        9,
+        12,
+        9,
+        12,
+        9,
+        12,
+        13,
+        10,
+        9,
+        8,
+        10,
+        8,
+        8,
+        8,
+        8,
+        9,
+        9,
+        9,
+        10,
+        9,
+        9,
+        10,
+        8,
+        9,
+        8,
+        8
+      ],
+      "avg_interest": 18.5,
+      "peak_interest": 100,
+      "trend_direction": "declining",
+      "data_points": 93,
+      "related_queries": {
+        "rising": [],
+        "top": [
+          {
+            "query": "best ai coding agents",
+            "value": 100
+          },
+          {
+            "query": "best coding agents",
+            "value": 100
+          }
+        ]
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-11-27T18:42:20.100187+00:00"
+    },
+    {
+      "keyword": "webgpu",
+      "category": "tech",
+      "google_category_id": 5,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [
+        28,
+        27,
+        25,
+        22,
+        18,
+        16,
+        18,
+        19,
+        17,
+        18,
+        15,
+        13,
+        15,
+        15,
+        17,
+        13,
+        14,
+        14,
+        16,
+        16,
+        15,
+        14,
+        16,
+        15,
+        14,
+        15,
+        15,
+        14,
+        14,
+        11
+      ],
+      "avg_interest": 21.8,
+      "peak_interest": 100,
+      "trend_direction": "declining",
+      "data_points": 93,
+      "related_queries": {
+        "rising": [
+          {
+            "query": "webgpu is switched on in this browser but it found no usable graphics adapter. check that hardware acceleration is on in the browser settings and the graphics driver is up to date. remote desktop and virtual machines often have no gpu for the browser.",
+            "value": 48700
+          },
+          {
+            "query": "your browser does not support webgpu",
+            "value": 14500
+          },
+          {
+            "query": "firefox webgpu",
+            "value": 60
+          },
+          {
+            "query": "webgl vs webgpu",
+            "value": 40
+          }
+        ],
+        "top": [
+          {
+            "query": "webgpu chrome",
+            "value": 100
+          },
+          {
+            "query": "webgpu support",
+            "value": 96
+          },
+          {
+            "query": "webgpu github",
+            "value": 68
+          },
+          {
+            "query": "firefox webgpu",
+            "value": 65
+          },
+          {
+            "query": "what is webgpu",
+            "value": 62
+          },
+          {
+            "query": "webgpu games",
+            "value": 36
+          },
+          {
+            "query": "webgpu test",
+            "value": 33
+          },
+          {
+            "query": "safari webgpu",
+            "value": 32
+          },
+          {
+            "query": "webgl vs webgpu",
+            "value": 24
+          },
+          {
+            "query": "webgpu demo",
+            "value": 19
+          }
+        ]
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-11-27T18:42:25.160981+00:00"
+    },
+    {
+      "keyword": "rust programming 2026",
+      "category": "tech",
+      "google_category_id": 5,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        3,
+        4,
+        2,
+        2,
+        3,
+        2,
+        2,
+        3,
+        2
+      ],
+      "avg_interest": 5.5,
+      "peak_interest": 100,
+      "trend_direction": "declining",
+      "data_points": 93,
+      "related_queries": {
+        "rising": [],
+        "top": []
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-11-27T18:42:30.214473+00:00"
+    },
+    {
+      "keyword": "htmx",
+      "category": "tech",
+      "google_category_id": 5,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [
+        34,
+        26,
+        22,
+        0,
+        26,
+        30,
+        27,
+        22,
+        23,
+        20,
+        18,
+        24,
+        25,
+        17,
+        20,
+        20,
+        15,
+        17,
+        25,
+        24,
+        22,
+        21,
+        19,
+        15,
+        13,
+        20,
+        20,
+        21,
+        19,
+        16
+      ],
+      "avg_interest": 31.0,
+      "peak_interest": 100,
+      "trend_direction": "declining",
+      "data_points": 93,
+      "related_queries": {
+        "rising": [
+          {
+            "query": "hono htmx",
+            "value": 180
+          },
+          {
+            "query": "htmx golang",
+            "value": 130
+          },
+          {
+            "query": "htmx 4.0",
+            "value": 130
+          },
+          {
+            "query": "htmx vs svelte",
+            "value": 90
+          },
+          {
+            "query": "htmx rust",
+            "value": 70
+          }
+        ],
+        "top": [
+          {
+            "query": "github htmx",
+            "value": 100
+          },
+          {
+            "query": "what is htmx",
+            "value": 85
+          },
+          {
+            "query": "htmx go",
+            "value": 79
+          },
+          {
+            "query": "htmx documentation",
+            "value": 79
+          },
+          {
+            "query": "django htmx",
+            "value": 78
+          },
+          {
+            "query": "htmx python",
+            "value": 49
+          },
+          {
+            "query": "htmx form",
+            "value": 47
+          },
+          {
+            "query": "htmx docs",
+            "value": 47
+          },
+          {
+            "query": "htmx golang",
+            "value": 47
+          },
+          {
+            "query": "fastapi htmx",
+            "value": 38
+          }
+        ]
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-11-27T18:42:35.468266+00:00"
+    },
+    {
+      "keyword": "notion plugins",
+      "category": "tech",
+      "google_category_id": 5,
+      "geo": "global",
+      "timeframe": "today 3-m",
+      "interest_values": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        93,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        8,
+        0,
+        6,
+        7,
+        7,
+        8,
+        8,
+        0,
+        0,
+        7,
+        9,
+        6,
+        5,
+        8,
+        9
+      ],
+      "avg_interest": 3.0,
+      "peak_interest": 100,
+      "trend_direction": "rising",
+      "data_points": 93,
+      "related_queries": {
+        "rising": [],
+        "top": []
+      },
+      "source": "google_trends",
+      "fetched_at": "2026-11-27T18:42:40.150439+00:00"
+    }
+  ]
+}
